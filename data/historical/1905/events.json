@@ -1,0 +1,80 @@
+[
+  {
+    "id": "battle-of-plassey-1757",
+    "name": "Battle of Plassey",
+    "date": "23 June 1757",
+    "year": 1757,
+    "type": "battle",
+    "placeId": "plassey",
+    "districtId": "nadia",
+    "latitude": 23.8000,
+    "longitude": 88.2500,
+    "description": "Decisive victory of Robert Clive's East India Company forces over Nawab Siraj-ud-Daulah, aided by Mir Jafar's betrayal. Marked the onset of British colonial dominance in India.",
+    "sources": ["imp-gazetteer-1907", "bengal-gazetteer-murshidabad"]
+  },
+  {
+    "id": "battle-of-buxar-1764",
+    "name": "Battle of Buxar",
+    "date": "22 October 1764",
+    "year": 1764,
+    "type": "battle",
+    "placeId": "buxar",
+    "districtId": "shahabad",
+    "latitude": 25.5600,
+    "longitude": 83.9800,
+    "description": "Company forces led by Hector Munro defeated the combined armies of Nawab Mir Qasim, Nawab Shuja-ud-Daula of Awadh, and Mughal Emperor Shah Alam II, securing total political control over Bengal, Bihar, and Orissa.",
+    "sources": ["imp-gazetteer-1907"]
+  },
+  {
+    "id": "permanent-settlement-1793",
+    "name": "Enactment of Permanent Settlement",
+    "date": "22 March 1793",
+    "year": 1793,
+    "type": "administrative change",
+    "placeId": "calcutta",
+    "districtId": "calcutta",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "description": "Governor-General Lord Cornwallis introduced the Permanent Settlement, fixing land revenues in perpetuity and creating the landlord (Zamindari) class across Bengal, Bihar, and Orissa.",
+    "sources": ["imp-gazetteer-1907", "census-1901"]
+  },
+  {
+    "id": "santhal-rebellion-1855",
+    "name": "Santhal Hul (Rebellion)",
+    "date": "30 June 1855",
+    "year": 1855,
+    "type": "rebellion",
+    "placeId": "bhagnalpur-dumka",
+    "districtId": "santal-parganas",
+    "latitude": 24.2689,
+    "longitude": 87.2497,
+    "description": "Massive tribal uprising led by brothers Sidhu and Kanhu Murmu against corrupt money-lenders and Company revenue agents, leading to the creation of the Santal Parganas Non-Regulation district.",
+    "sources": ["bengal-gazetteer-santal-parganas"]
+  },
+  {
+    "id": "indigo-revolt-1859",
+    "name": "Indigo Revolt (Nil Bidroha)",
+    "date": "1859 – 1860",
+    "year": 1859,
+    "type": "rebellion",
+    "placeId": "krishnagar",
+    "districtId": "nadia",
+    "latitude": 23.4000,
+    "longitude": 88.5000,
+    "description": "Peasant uprising against forced indigo cultivation by European planters across Nadia, Jessore, and Pabna, immortalized in Dinabandhu Mitra's play 'Nil Darpan'.",
+    "sources": ["imp-gazetteer-1907"]
+  },
+  {
+    "id": "partition-proclamation-1905",
+    "name": "Partition of Bengal Takes Effect",
+    "date": "16 October 1905",
+    "year": 1905,
+    "type": "political event",
+    "placeId": "calcutta",
+    "districtId": "calcutta",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "description": "Curzon's partition officially divides Bengal into 'Eastern Bengal & Assam' (capital Dacca) and 'Bengal' (capital Calcutta). Marked by Rakhi Bandhan brotherly solidarity unity pledges and the launch of the Swadeshi Movement.",
+    "sources": ["imp-gazetteer-1907", "census-1901"]
+  }
+]

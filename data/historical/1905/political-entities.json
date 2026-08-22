@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ancient-empires",
+    "name": "Ancient Empires (Mauryan & Gupta)",
+    "period": "c. 300 BCE – 550 CE",
+    "capital": "Pataliputra (Patna)",
+    "description": "Period of imperial rule under the Mauryans (Emperor Ashoka) and Guptas, during which Mahasthangarh (Pundranagara) and Tamralipta (Tamluk) flourished as major urban trade hubs."
+  },
+  {
+    "id": "pala-empire",
+    "name": "Pala Empire",
+    "period": "c. 750 – 1161 CE",
+    "capital": "Pataliputra, Gauda (Gour), Bikrampur",
+    "description": "Mahayana Buddhist imperial dynasty founded by Gopala that unified Bengal and Bihar, founding famous monastic universities at Nalanda, Vikramashila, and Somapura Mahavihara."
+  },
+  {
+    "id": "sena-dynasty",
+    "name": "Sena Dynasty",
+    "period": "c. 1070 – 1230 CE",
+    "capital": "Nabadwip (Nadia), Bikrampur, Gour",
+    "description": "Hindu dynasty originating from South India that succeeded the Palas in Bengal proper. Patronized Sanskrit literature (Jayadeva's Gita Govinda)."
+  },
+  {
+    "id": "delhi-sultanate",
+    "name": "Delhi Sultanate & Early Governors",
+    "period": "1204 – 1352 CE",
+    "capital": "Lakhnauti (Gour), Delhi",
+    "description": "Began with Muhammad Bakhtiyar Khalji's conquest of Lakhnauti in 1204. Characterized by frequent rebellions by Bengal governors against the Delhi Sultanate."
+  },
+  {
+    "id": "bengal-sultanate",
+    "name": "Bengal Sultanate",
+    "period": "1352 – 1576 CE",
+    "capital": "Gour (Gauda), Pandua, Sonargaon",
+    "description": "Golden age of independent Islamic monarchy founded by Shamsuddin Iliyas Shah. Famous for magnificent brick mosque architecture (Adina Mosque, Sona Masjid), Bengali literature patrons, and international maritime trade."
+  },
+  {
+    "id": "mughal-empire",
+    "name": "Mughal Subah Bangalah",
+    "period": "1576 – 1717 CE",
+    "capital": "Dacca (Jahangirnagar), Rajmahal",
+    "description": "Incorporated into Akbar's Mughal Empire after the defeat of Daud Khan Karrani at Rajmahal (1576). Subahdar Islam Khan I moved the capital to Dacca in 1610. Known as the 'Paradise of Nations'."
+  },
+  {
+    "id": "nawabs-of-bengal",
+    "name": "Nawabs of Bengal",
+    "period": "1717 – 1757 CE",
+    "capital": "Murshidabad",
+    "description": "De facto independent principality established by Murshid Quli Khan, who moved the capital from Dacca to Murshidabad. Ended with Nawab Siraj-ud-Daulah's betrayal at Plassey in 1757."
+  },
+  {
+    "id": "east-india-company",
+    "name": "East India Company Rule",
+    "period": "1757 – 1858 CE",
+    "capital": "Calcutta",
+    "description": "Colonial mercantile rule following the Battles of Plassey (1757) and Buxar (1764). Diwani rights acquired in 1765, leading to the Permanent Settlement of 1793 and Calcutta's rise as imperial center."
+  },
+  {
+    "id": "british-raj",
+    "name": "British Raj (Crown Rule)",
+    "period": "1858 – 1947 CE",
+    "capital": "Calcutta (until 1911)",
+    "description": "Direct administration under the British Crown following the 1857 Revolt. The Lieutenant-Governorship of Bengal governed the province until the 1905 Partition and 1911 reorganisation."
+  }
+]

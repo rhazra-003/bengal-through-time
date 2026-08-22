@@ -1,0 +1,101 @@
+[
+  {
+    "id": "presidency",
+    "name": "Presidency Division",
+    "historicalName": "Presidency Division",
+    "headquarters": "Calcutta",
+    "region": "Bengal Proper",
+    "areaSqMiles": 17560,
+    "population1901": 9022800,
+    "districts": ["calcutta", "24-parganas", "nadia", "murshidabad", "jessore", "khulna"],
+    "description": "The administrative central division of Bengal Proper surrounding the provincial capital, Calcutta. Encompassed the lower Ganges delta, Bhagirathi-Hooghly river system, and western Sundarbans."
+  },
+  {
+    "id": "burdwan",
+    "name": "Burdwan Division",
+    "historicalName": "Burdwan Division",
+    "headquarters": "Burdwan",
+    "region": "Bengal Proper",
+    "areaSqMiles": 13949,
+    "population1901": 8246767,
+    "districts": ["burdwan", "birbhum", "bankura", "midnapore", "hooghly", "howrah"],
+    "description": "The western division of Bengal Proper lying west of the Bhagirathi-Hooghly river. Featured the rich agricultural plains of Hooghly and Burdwan alongside the coalfields of Raniganj and Asansol."
+  },
+  {
+    "id": "rajshahi",
+    "name": "Rajshahi Division",
+    "historicalName": "Rajshahi Division",
+    "headquarters": "Jalpaiguri",
+    "region": "Bengal Proper / North Bengal",
+    "areaSqMiles": 17351,
+    "population1901": 8019361,
+    "districts": ["rajshahi", "dinajpur", "jalpaiguri", "darjeeling", "rangpur", "bogra", "pabna", "malda"],
+    "description": "North Bengal division stretching from the Ganges river up to the Himalayan foothills of Darjeeling and the tea-growing Western Duars."
+  },
+  {
+    "id": "dacca",
+    "name": "Dacca Division",
+    "historicalName": "Dacca Division",
+    "headquarters": "Dacca",
+    "region": "Bengal Proper / East Bengal",
+    "areaSqMiles": 15000,
+    "population1901": 10793976,
+    "districts": ["dacca", "mymensingh", "faridpur", "backergunge"],
+    "description": "The heartland of Eastern Bengal along the confluence of the Ganges (Padma), Brahmaputra (Jamuna), and Meghna rivers. Famous for jute cultivation, muslin heritage, and dense population."
+  },
+  {
+    "id": "chittagong",
+    "name": "Chittagong Division",
+    "historicalName": "Chittagong Division",
+    "headquarters": "Chittagong",
+    "region": "Bengal Proper / South-East Bengal",
+    "areaSqMiles": 12181,
+    "population1901": 4737731,
+    "districts": ["chittagong", "chittagong-hill-tracts", "noakhali", "tippera"],
+    "description": "South-eastern coastal and maritime division bordering Burma and the Bay of Bengal, featuring major sea trade routes and indigenous hill tracts."
+  },
+  {
+    "id": "patna",
+    "name": "Patna Division",
+    "historicalName": "Patna Division",
+    "headquarters": "Patna",
+    "region": "Bihar",
+    "areaSqMiles": 23686,
+    "population1901": 15514987,
+    "districts": ["patna", "gaya", "shahabad", "saran", "champaran", "muzaffarpur", "darbhanga"],
+    "description": "The fertile Gangetic valley division of Bihar, encompassing ancient seats of power at Pataliputra, Mithila, and Buxar."
+  },
+  {
+    "id": "bhagalpur",
+    "name": "Bhagalpur Division",
+    "historicalName": "Bhagalpur Division",
+    "headquarters": "Bhagalpur",
+    "region": "Bihar",
+    "areaSqMiles": 19717,
+    "population1901": 8728544,
+    "districts": ["bhagalpur", "monghyr", "santal-parganas", "purnea"],
+    "description": "Eastern Bihar division straddling the Ganges, extending south into the Santal Parganas tribal uplands and north to Purnea."
+  },
+  {
+    "id": "orissa",
+    "name": "Orissa Division",
+    "historicalName": "Orissa Division",
+    "headquarters": "Cuttack",
+    "region": "Orissa",
+    "areaSqMiles": 13736,
+    "population1901": 5003121,
+    "districts": ["cuttack", "puri", "balasore", "angul", "sambalpur"],
+    "description": "Coastal and inland division of Orissa, including the holy city of Jagannath Puri, ancient deltaic Cuttack, and 24 feudatory tributary states."
+  },
+  {
+    "id": "chota-nagpur",
+    "name": "Chota Nagpur Division",
+    "historicalName": "Chota Nagpur Division",
+    "headquarters": "Ranchi",
+    "region": "Chota Nagpur (Jharkhand)",
+    "areaSqMiles": 27101,
+    "population1901": 4900429,
+    "districts": ["hazaribagh", "ranchi", "palamau", "manbhum", "singbhum"],
+    "description": "Mineral-rich forested plateau division populated by Munda, Oraon, and Santhal indigenous communities, containing major coal reserves."
+  }
+]

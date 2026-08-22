@@ -1,0 +1,564 @@
+[
+  {
+    "id": "calcutta",
+    "slug": "calcutta",
+    "name": "Calcutta",
+    "historicalName": "Calcutta",
+    "modernName": "Kolkata",
+    "alternateNames": ["Kalikata", "Culcutta", "Kolkata"],
+    "type": "capital",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "divisionId": "presidency",
+    "districtId": "calcutta",
+    "historicalStatus": "Imperial Capital of British India & Lieutenant-Governorship of Bengal",
+    "descriptionShort": "Calcutta was the imperial capital of British India and the Lieutenant-Governorship of Bengal. Famous for Esplanade, Fort William, High Court, Bengal Renaissance, and Swadeshi protests.",
+    "descriptionLong": "Founded in 1690 by Job Charnock through the unification of three villages (Kalikata, Sutanuti, and Gobindapur), Calcutta developed into the 'City of Palaces' and the supreme administrative, commercial, and judicial heart of British India. By 1905, it was the second largest city in the British Empire after London, boasting premier institutions like Calcutta University, the High Court, Fort William, and Indian Museum.\n\nFamed for its intellectual Bengal Renaissance, publishing houses, College Street book market, and international jute trade along the Hugli river, Calcutta was the central nerve center of anti-partition politics in 1905.",
+    "famousSpecialties": "Bengal Renaissance literature & printing, College Street publishing, Jute mills along Hugli river, Fort William, Esplanade, and premier educational universities.",
+    "revolutionarySignificance": "Nerve center of the 1905 Swadeshi Movement. Site of Rabindranath Tagore's Rakhi Bandhan march, Anushilan Samiti headquarters, and Barindra Kumar Ghosh's secret Maniktala bomb laboratory (Alipore Bomb Case, 1908).",
+    "politicalHistory": [
+      { "period": "Ancient", "ruler": "Gupta Empire & Local Rulers", "periodDetails": "Village settlements along the Hugli river estuary." },
+      { "period": "1690 – 1757", "ruler": "East India Company & Nawabs of Bengal", "periodDetails": "Job Charnock establishes Company factory in 1690; captured briefly by Nawab Siraj-ud-Daulah in 1756." },
+      { "period": "1757 – 1905", "ruler": "British Empire (Capital of British India)", "periodDetails": "Seat of the Governor-General / Viceroy of India and Lieutenant-Governor of Bengal." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. IX, pp. 260-290" },
+      { "sourceId": "bengal-gazetteer-24parganas", "pages": "pp. 210-245" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q1353",
+    "geoNamesId": "1275004"
+  },
+  {
+    "id": "dacca",
+    "slug": "dacca",
+    "name": "Dacca",
+    "historicalName": "Dacca",
+    "modernName": "Dhaka",
+    "alternateNames": ["Jahangirnagar", "Dhaka", "Dacca"],
+    "type": "city",
+    "latitude": 23.8103,
+    "longitude": 90.4125,
+    "divisionId": "dacca",
+    "districtId": "dacca",
+    "historicalStatus": "Division Headquarters & Capital of Eastern Bengal & Assam (Oct 1905)",
+    "descriptionShort": "Dacca was the historical capital of Mughal Subah Bangalah (as Jahangirnagar) and world-renowned center of fine Jamdani muslin weaving.",
+    "descriptionLong": "Established as the Mughal capital of Bengal by Subahdar Islam Khan I in 1610, Dacca grew into a wealthy riverine metropolis famed for its architectural monuments (Lalbagh Fort, Ahsan Manzil, Bara Katra) and unmatched Dhaka Muslin craftsmanship exported across the globe.\n\nOn 16 October 1905, Dacca was named the capital of the newly created province of Eastern Bengal and Assam under Lieutenant-Governor Sir Joseph Bampfylde Fuller. In November 1905, Pulin Behari Das founded the Dhaka Anushilan Samiti here, establishing a network of over 500 revolutionary secret branches. In December 1906, Ahsan Manzil hosted the founding conference of the All-India Muslim League.",
+    "famousSpecialties": "World-famous Dhaka Jamdani Muslin textiles, Nawabi Mughlai cuisine, riverine jute trade, Lalbagh Fort architecture, and shell-carving (Shankhari) craft.",
+    "revolutionarySignificance": "Birthplace of Dhaka Anushilan Samiti founded by Pulin Behari Das in Nov 1905, establishing over 500 underground revolutionary branches across East Bengal delta districts.",
+    "politicalHistory": [
+      { "period": "Pre-1610", "ruler": "Sena Dynasty & Bengal Sultanate", "periodDetails": "Prominent regional river trade center under Bikrampur rulers and Sultans." },
+      { "period": "1610 – 1717", "ruler": "Mughal Empire (Subahdar Seat)", "periodDetails": "Renamed Jahangirnagar; imperial administrative and naval seat for eastern river fleets." },
+      { "period": "1717 – 1905", "ruler": "Nawabs & British Raj (Division HQ)", "periodDetails": "Remained premier metropolis of Eastern Bengal; made capital of Eastern Bengal & Assam in Oct 1905." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XI, pp. 101-118" },
+      { "sourceId": "bengal-gazetteer-dacca", "pages": "pp. 1-40" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q1354",
+    "geoNamesId": "1185241"
+  },
+  {
+    "id": "murshidabad",
+    "slug": "murshidabad",
+    "name": "Murshidabad",
+    "historicalName": "Murshidabad",
+    "modernName": "Murshidabad",
+    "alternateNames": ["Mukshudabad", "Berhampore", "Murshidabad"],
+    "type": "city",
+    "latitude": 24.1750,
+    "longitude": 88.2700,
+    "divisionId": "presidency",
+    "districtId": "murshidabad",
+    "historicalStatus": "Capital of the Nawabs of Bengal (1717–1757)",
+    "descriptionShort": "Murshidabad was the grand capital of the Nawabs of Bengal on the Bhagirathi river, famous for Hazarduari Palace, fine Baluchari silk weaving, and Jagat Seth banking house.",
+    "descriptionLong": "Founded when Nawab Murshid Quli Khan transferred the revenue court from Dacca in 1717, Murshidabad became one of the wealthiest commercial centers in Asia. It witnessed the momentous events surrounding Nawab Siraj-ud-Daulah, the Battle of Plassey, Hazarduari Palace, Katra Mosque, and Khosbagh tombs.\n\nFamed for its traditional Baluchari silk weaving and ivory carving, Murshidabad was also an active station during the 1857 Sepoy Mutiny (Berhampore Cantonment) and produced prominent revolutionary organizers during the Swadeshi movement.",
+    "famousSpecialties": "Baluchari silk sarees, Ivory carving heritage, Murshidabad Shahi sweets (Chanabora), Hazarduari Palace museum, and Katra Mosque architecture.",
+    "revolutionarySignificance": "Site of the first spark of the 1857 Sepoy Revolt at Berhampore Cantonment (19th Native Infantry) and active Swadeshi boycott meetings along the Bhagirathi river.",
+    "politicalHistory": [
+      { "period": "1717 – 1757", "ruler": "Nawabs of Bengal", "periodDetails": "Sovereign capital of Murshid Quli Khan, Alivardi Khan, and Siraj-ud-Daulah." },
+      { "period": "1757 – 1905", "ruler": "British Raj (Nawabs of Murshidabad as Titular Chiefs)", "periodDetails": "Administrative center shifted partially to Berhampore; seat of the Nawab Bahadur of Murshidabad." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XVIII, pp. 42-58" },
+      { "sourceId": "bengal-gazetteer-murshidabad", "pages": "pp. 1-25" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q1025287",
+    "geoNamesId": "1263220"
+  },
+  {
+    "id": "chittagong",
+    "slug": "chittagong",
+    "name": "Chittagong",
+    "historicalName": "Chittagong",
+    "modernName": "Chattogram",
+    "alternateNames": ["Porto Grande", "Islamabad", "Chattagrama", "Chattogram"],
+    "type": "city",
+    "latitude": 22.3569,
+    "longitude": 91.7832,
+    "divisionId": "chittagong",
+    "districtId": "chittagong",
+    "historicalStatus": "Major Deepwater Port & Division Headquarters",
+    "descriptionShort": "Chittagong was Bengal's principal eastern deepwater seaport on the Karnaphuli river, known historically as Porto Grande to Portuguese traders.",
+    "descriptionLong": "A major maritime port since antiquity, Chittagong linked Bengal to Arakan, Southeast Asia, and the Middle East. Captured by Mughal Prince Shaista Khan in 1666 and renamed Islamabad, it passed to the East India Company in 1760. In 1905, it served as the chief ocean outlet for tea and jute from Eastern Bengal and Assam, later becoming famous for Surya Sen's 1930 Chittagong Armoury Raid.",
+    "famousSpecialties": "Deepwater maritime shipping, Assam-Bengal Railway terminus, tea export warehouse, and traditional wooden shipbuilding along the Karnaphuli river.",
+    "revolutionarySignificance": "Strategic maritime hub for revolutionary secret arms shipments; later site of Surya Sen's (Masterda) legendary 1930 Chittagong Armoury Raid and Jalalabad Hill battle.",
+    "politicalHistory": [
+      { "period": "Medieval", "ruler": "Sultans of Bengal & Kings of Arakan (Mrauk U)", "periodDetails": "Contested frontier port city between Bengal and Arakan." },
+      { "period": "1666 – 1760", "ruler": "Mughal Empire (Renamed Islamabad)", "periodDetails": "Conquered by Shaista Khan; established as Mughal naval base." },
+      { "period": "1760 – 1905", "ruler": "British Raj (Division Headquarters)", "periodDetails": "Ceded to EIC by Nawab Mir Qasim; developed into modern railway and shipping hub." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. X, pp. 305-320" },
+      { "sourceId": "bengal-gazetteer-chittagong", "pages": "pp. 1-35" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q60639",
+    "geoNamesId": "1337179"
+  },
+  {
+    "id": "patna",
+    "slug": "patna",
+    "name": "Patna",
+    "historicalName": "Patna",
+    "modernName": "Patna",
+    "alternateNames": ["Pataliputra", "Azimabad", "Patna"],
+    "type": "city",
+    "latitude": 25.5941,
+    "longitude": 85.1376,
+    "divisionId": "patna",
+    "districtId": "patna",
+    "historicalStatus": "Headquarters of Patna Division & Capital of Bihar",
+    "descriptionShort": "Patna was the historic capital of Bihar on the Ganges, ancient Pataliputra, famous for the Golghar granary and agricultural opium and grain trade.",
+    "descriptionLong": "One of the oldest continuously inhabited cities in the world, ancient Pataliputra was capital of the Mauryan and Gupta empires under Chandragupta Maurya and Ashoka. Rebuilt by Sher Shah Suri in 1541 and renamed Azimabad under Prince Azim-ush-Shan, Patna served as headquarters of Patna Division in 1905, handling river trade for opium, saltpetre, and indigo along the Ganges.",
+    "famousSpecialties": "Ancient Pataliputra archaeological heritage, historic Golghar granary, Ganges riverine trade, and traditional Madhubani & Patna Qalam painting styles.",
+    "revolutionarySignificance": "Key center during the 1857 Revolt led by Kunwar Singh of Jagdishpur; later active in Swadeshi revolutionary cells across Bihar.",
+    "politicalHistory": [
+      { "period": "Ancient", "ruler": "Mauryan & Gupta Empires (Pataliputra)", "periodDetails": "Imperial capital of Chandragupta Maurya, Ashoka, and Chandragupta II." },
+      { "period": "Medieval & Mughal", "ruler": "Suri Empire & Mughal Empire", "periodDetails": "Rebuilt by Sher Shah Suri in 1541; seat of Mughal Subahdars of Bihar." },
+      { "period": "1765 – 1905", "ruler": "British Raj (Division Headquarters)", "periodDetails": "Major river trading depot for indigo, opium, and saltpetre." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XX, pp. 55-72" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q1353",
+    "geoNamesId": "1260086"
+  },
+  {
+    "id": "cuttack",
+    "slug": "cuttack",
+    "name": "Cuttack",
+    "historicalName": "Cuttack",
+    "modernName": "Cuttack",
+    "alternateNames": ["Kataka", "Cuttack"],
+    "type": "city",
+    "latitude": 20.4625,
+    "longitude": 85.8828,
+    "divisionId": "orissa",
+    "districtId": "cuttack",
+    "historicalStatus": "Headquarters of Orissa Division & Ancient Capital of Odisha",
+    "descriptionShort": "Cuttack was the traditional riverine delta capital of Orissa at the Mahanadi river apex, famous for Barabati Fort, silver filigree craft, and Utkal Sammilani movement.",
+    "descriptionLong": "Founded in the 10th century CE by King Nrupa Keshari, Cuttack served as the political capital of successive Eastern Ganga and Gajapati dynasties. Captured by the British in 1803 during the Second Anglo-Maratha War, it became the administrative headquarters of the Orissa Division within the Bengal Presidency. Famous for exquisite Tarakasi (silver filigree) jewelry.",
+    "famousSpecialties": "Tarakasi (Silver Filigree) jewelry, Barabati Fort heritage, Katasa handloom sarees, and birthplace of Netaji Subhas Chandra Bose (1897).",
+    "revolutionarySignificance": "Birthplace of Netaji Subhas Chandra Bose (23 Jan 1897); headquarters of Madhusudan Das's Utkal Sammilani movement advocating Oriya administrative rights.",
+    "politicalHistory": [
+      { "period": "10th – 16th Century", "ruler": "Eastern Ganga & Gajapati Dynasties", "periodDetails": "Sovereign Hindu royal capital of Odisha built around Barabati Fort." },
+      { "period": "1568 – 1803", "ruler": "Bengal Sultanate, Mughals & Marathas", "periodDetails": "Ruled by Sulaiman Karrani, Mughal Subahdars, and Maratha Subahdars." },
+      { "period": "1803 – 1905", "ruler": "British Raj (Orissa Division Headquarters)", "periodDetails": "Headquarters of Commissioner of Orissa Division." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XI, pp. 85-98" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q200788",
+    "geoNamesId": "1273754"
+  },
+  {
+    "id": "ranchi",
+    "slug": "ranchi",
+    "name": "Ranchi",
+    "historicalName": "Ranchi",
+    "modernName": "Ranchi",
+    "alternateNames": ["Lohardaga (former district HQ)", "Ranchi"],
+    "type": "city",
+    "latitude": 23.3441,
+    "longitude": 85.3096,
+    "divisionId": "chota-nagpur",
+    "districtId": "ranchi",
+    "historicalStatus": "Headquarters of Chota Nagpur Division",
+    "descriptionShort": "Ranchi was the plateau headquarters of Chota Nagpur Division, home to Munda and Oraon tribal communities and center of Birsa Munda's Ulgulan uprising.",
+    "descriptionLong": "Selected as the headquarters of the South-West Frontier Agency in 1834 and later Chota Nagpur Division, Ranchi developed into a cool summer station on the Chota Nagpur plateau. It was the epicenter of Birsa Munda's famous Ulgulan (rebellion) of 1899–1900 against British land encroachment and forced labor.",
+    "famousSpecialties": "Plateau climate, Hundru & Dassam waterfalls, tribal handicrafts, lac production, and sacred Munda Sarna traditions.",
+    "revolutionarySignificance": "Epicenter of Birsa Munda's historic Ulgulan (Great Tumult) uprising (1899–1900) against British land encroachment and zamindari exploitation.",
+    "politicalHistory": [
+      { "period": "Pre-Colonial", "ruler": "Nagvanshi Dynasty of Chota Nagpur", "periodDetails": "Autonomous tribal kingdom paying nominal tribute to Mughals." },
+      { "period": "1834 – 1905", "ruler": "British Raj (Division & District HQ)", "periodDetails": "Headquarters of Commissioner of Chota Nagpur; site of Birsa Munda revolt in 1899." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XXI, pp. 198-212" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q207802",
+    "geoNamesId": "1258526"
+  },
+  {
+    "id": "darjeeling",
+    "slug": "darjeeling",
+    "name": "Darjeeling",
+    "historicalName": "Darjeeling",
+    "modernName": "Darjeeling",
+    "alternateNames": ["Dorje-ling", "Darjeeling"],
+    "type": "town",
+    "latitude": 27.0410,
+    "longitude": 88.2663,
+    "divisionId": "rajshahi",
+    "districtId": "darjeeling",
+    "historicalStatus": "Summer Capital of Bengal Lieutenant-Governorship",
+    "descriptionShort": "Darjeeling was the Himalayan hill station and official summer seat of the Bengal Government, famed for world-renowned Darjeeling Tea and Kangchenjunga views.",
+    "descriptionLong": "Acquired by the East India Company from the Chogyal of Sikkim in 1835 as a sanatorium, Darjeeling was transformed by Dr. Arthur Campbell into a premier hill station and tea hub. In 1881, the Darjeeling Himalayan Railway (Toy Train) reached the town, making it accessible as Bengal's official summer capital.",
+    "famousSpecialties": "World-famous Darjeeling Orthodox Tea plantations, Darjeeling Himalayan Railway (Toy Train, UNESCO), Kangchenjunga panoramas, and Himalayan botanical gardens.",
+    "revolutionarySignificance": "Official summer administrative seat of the Lieutenant-Governor of Bengal; later site of revolutionary assassination attempt on Governor Sir John Anderson (1934).",
+    "politicalHistory": [
+      { "period": "Pre-1835", "ruler": "Kingdom of Sikkim & Kingdom of Gorkha", "periodDetails": "Border hill territory under Sikkimese and Nepalese control." },
+      { "period": "1835 – 1905", "ruler": "British Raj (Summer Capital of Bengal)", "periodDetails": "Ceded to EIC; established as tea plantation hub and official summer administrative capital." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XI, pp. 165-180" },
+      { "sourceId": "bengal-gazetteer-darjeeling", "pages": "pp. 1-30" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q169988",
+    "geoNamesId": "1274577"
+  },
+  {
+    "id": "burdwan",
+    "slug": "burdwan",
+    "name": "Burdwan",
+    "historicalName": "Burdwan",
+    "modernName": "Bardhaman",
+    "alternateNames": ["Bardhaman", "Burdwan"],
+    "type": "city",
+    "latitude": 23.2324,
+    "longitude": 87.8615,
+    "divisionId": "burdwan",
+    "districtId": "burdwan",
+    "historicalStatus": "Burdwan Division Headquarters & Seat of Raj Bardhaman",
+    "descriptionShort": "Burdwan was the headquarters of Burdwan Division and home to the Maharajadhiraja of Burdwan, premier zamindari estate of Bengal, famous for Curzon Gate.",
+    "descriptionLong": "Situated on the Banka river, Burdwan was an ancient seat of culture and commerce. The Maharaja of Burdwan was the highest tax-paying zamindar in British India. In 1903, the grand Curzon Gate was erected to welcome Viceroy Lord Curzon. The district featured the 108 Shiva Temples of Kalna and major coalfields in Raniganj and Asansol.",
+    "famousSpecialties": "Sitabhog & Mihidana sweet delicacies, Curzon Gate landmark, 108 Shiva Temples of Kalna, and Raniganj coalfields.",
+    "revolutionarySignificance": "Active center during the Swadeshi boycott; produced prominent freedom fighters and underground press distributors across West Bengal.",
+    "politicalHistory": [
+      { "period": "Mughal & Raj", "ruler": "Maharajas of Burdwan & British Raj", "periodDetails": "Seat of the Kapoor Kshatriya dynasty of Burdwan Raj estates." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. IX, pp. 90-102" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q748337",
+    "geoNamesId": "1276722"
+  },
+  {
+    "id": "gour",
+    "slug": "gour",
+    "name": "Gour (Gauda)",
+    "historicalName": "Gour / Gauda",
+    "modernName": "Gaur (Malda)",
+    "alternateNames": ["Gauda", "Lakhnauti", "Jannatabad", "Gaur"],
+    "type": "historical_site",
+    "latitude": 24.8700,
+    "longitude": 88.1300,
+    "divisionId": "rajshahi",
+    "districtId": "malda",
+    "historicalStatus": "Ancient & Medieval Imperial Capital of Bengal",
+    "descriptionShort": "Gour (Gauda) was the grand ruined imperial capital of ancient and medieval Bengal on the Malda border, famous for Boro Sona Masjid and Dakhil Darwaza.",
+    "descriptionLong": "Capital of King Shashanka, Pala emperors, Sena kings, and independent Bengal Sultans (under Lakhnauti and Jannatabad), Gour was one of the greatest fortified cities in medieval Asia. Abandoned in the late 16th century due to an epidemic and river shift, its immense terracotta brick ruins remained legendary in 1905.",
+    "famousSpecialties": "Medieval brick Sultanate architecture (Boro Sona Masjid, Dakhil Darwaza, Firoz Minar), ancient Buddhist-Hindu capital ruins, and Malda Fazli mangoes.",
+    "revolutionarySignificance": "Historical symbol of sovereign medieval Bengali imperial pride invoked heavily by Swadeshi poets and nationalists during anti-partition rallies.",
+    "politicalHistory": [
+      { "period": "7th – 16th Century", "ruler": "Shashanka, Palas, Senas & Bengal Sultanate", "periodDetails": "Imperial capital city of united Bengal for nearly a millennium." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XII, pp. 382-395" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q2574971",
+    "geoNamesId": "1272497"
+  },
+  {
+    "id": "plassey",
+    "slug": "plassey",
+    "name": "Plassey",
+    "historicalName": "Plassey / Palashi",
+    "modernName": "Palashi",
+    "alternateNames": ["Palashi", "Plassey"],
+    "type": "historical_site",
+    "latitude": 23.8000,
+    "longitude": 88.2500,
+    "divisionId": "presidency",
+    "districtId": "nadia",
+    "historicalStatus": "Site of the Battle of Plassey (23 June 1757)",
+    "descriptionShort": "Palashi (Plassey) on the Bhagirathi river was the site of the historic 1757 battle that established British colonial rule in Bengal.",
+    "descriptionLong": "On 23 June 1757, Robert Clive's 3,000 East India Company troops defeated Nawab Siraj-ud-Daulah's 50,000-strong army after Mir Jafar and Rai Durlabh held back their divisions. Lord Curzon visited Plassey in 1901 and commissioned the Lord Curzon Monument obelisk at the battlefield.",
+    "famousSpecialties": "Battlefield memorial obelisk, mango groves of Palashi along the Bhagirathi river, and historic EIC encampment grounds.",
+    "revolutionarySignificance": "Watershed site marking the loss of Indian independence in 1757; invoked by Swadeshi revolutionaries as the symbol of colonial subjugation to be avenged.",
+    "politicalHistory": [
+      { "period": "23 June 1757", "ruler": "East India Company Victory", "periodDetails": "Battle of Plassey obelisk erected by Lord Curzon." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XX, pp. 148-152" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q1025732",
+    "geoNamesId": "1260429"
+  },
+  {
+    "id": "buxar",
+    "slug": "buxar",
+    "name": "Buxar",
+    "historicalName": "Buxar",
+    "modernName": "Buxar",
+    "alternateNames": ["Baksar", "Buxar"],
+    "type": "town",
+    "latitude": 25.5600,
+    "longitude": 83.9800,
+    "divisionId": "patna",
+    "districtId": "shahabad",
+    "historicalStatus": "Site of the Battle of Buxar (22 October 1764)",
+    "descriptionShort": "Historic river town on the Ganges in Shahabad district, location of the 1764 battle that won the imperial Diwani of Bengal for the EIC.",
+    "descriptionLong": "On 22 October 1764, Major Hector Munro defeated the combined forces of Nawab Mir Qasim of Bengal, Nawab Shuja-ud-Daula of Awadh, and Mughal Emperor Shah Alam II, solidifying total EIC mastery over Eastern India.",
+    "famousSpecialties": "Historic Buxar Fort, Ramayana heritage sites (Rameshwar Nath Temple), and strategic Ganges river passage.",
+    "revolutionarySignificance": "Site of the decisive 1764 battle that granted the British legal revenue rights (Diwani) over Bengal, Bihar, and Orissa.",
+    "politicalHistory": [
+      { "period": "22 Oct 1764", "ruler": "East India Company Victory", "periodDetails": "Secured the imperial Diwani revenue grant from Shah Alam II in 1765." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. IX, pp. 52-56" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q852758",
+    "geoNamesId": "1275338"
+  },
+  {
+    "id": "puri",
+    "slug": "puri",
+    "name": "Puri",
+    "historicalName": "Puri",
+    "modernName": "Puri",
+    "alternateNames": ["Jagannath Puri", "Purushottama Kshetra", "Pooree"],
+    "type": "city",
+    "latitude": 19.8135,
+    "longitude": 85.8312,
+    "divisionId": "orissa",
+    "districtId": "puri",
+    "historicalStatus": "Sacred Pilgrimage City & District Headquarters",
+    "descriptionShort": "Puri on the Bay of Bengal coast was world-famous for the 12th-century Jagannath Temple, annual Ratha Yatra festival, and coastal heritage.",
+    "descriptionLong": "One of the Char Dham pilgrimage sites of India, Puri centers around the monumental Jagannath Temple built by King Anantavarman Chodaganga Deva. It was headquarters of Puri district in Orissa Division, spiritual seat of the Gajapati Maharaja of Puri.",
+    "famousSpecialties": "12th-century Jagannath Temple, annual Ratha Yatra (Chariot Festival), Mahaprasad culinary heritage, Khaja sweet, and Golden Beach.",
+    "revolutionarySignificance": "Center of Oriya spiritual identity; site of Khurda Paika Rebellion (1817) led by Bakshi Jagabandhu against British revenue oppression.",
+    "politicalHistory": [
+      { "period": "12th – 19th Century", "ruler": "Gajapati Kings of Khurda & British Raj", "periodDetails": "Pilgrimage city under spiritual guardianship of the Gajapati Maharaja of Puri." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XX, pp. 398-412" },
+      { "sourceId": "bengal-gazetteer-puri", "pages": "pp. 1-45" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q207797",
+    "geoNamesId": "1259229"
+  },
+  {
+    "id": "cooch-behar",
+    "slug": "cooch-behar",
+    "name": "Cooch Behar",
+    "historicalName": "Cooch Behar",
+    "modernName": "Cooch Behar",
+    "alternateNames": ["Koch Bihar", "Cooch Behar"],
+    "type": "capital",
+    "latitude": 26.3239,
+    "longitude": 89.4510,
+    "divisionId": "rajshahi",
+    "districtId": "jalpaiguri",
+    "historicalStatus": "Capital of the Princely State of Cooch Behar",
+    "descriptionShort": "Capital of the feudatory Koch dynasty princely state, featuring Victor Jubilee Palace built by Maharaja Nripendra Narayan in 1887.",
+    "descriptionLong": "Founded by Biswa Singha of the Koch dynasty in 1515, Cooch Behar remained an autonomous princely state in treaty alliance with the British Crown. Maharaja Nripendra Narayan modernized the city with European classical architecture.",
+    "famousSpecialties": "Italian Renaissance style Victor Jubilee Palace (Cooch Behar Palace), Madan Mohan Temple, and Rajbari parklands.",
+    "revolutionarySignificance": "Autonomous Koch dynastic capital under British supervisory treaty; key strategic gateway between North Bengal, Assam, and Bhutan.",
+    "politicalHistory": [
+      { "period": "1515 – 1905", "ruler": "Koch Dynastic Maharajas", "periodDetails": "Autonomous Native State supervised by the Bengal Lieutenant-Governorship." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. X, pp. 379-390" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q2726245",
+    "geoNamesId": "1273859"
+  },
+  {
+    "id": "agartala",
+    "slug": "agartala",
+    "name": "Agartala",
+    "historicalName": "Agartala",
+    "modernName": "Agartala",
+    "alternateNames": ["Agartala", "Hill Tippera Capital"],
+    "type": "capital",
+    "latitude": 23.8315,
+    "longitude": 91.2868,
+    "divisionId": "chittagong",
+    "districtId": "tippera",
+    "historicalStatus": "Capital of the Princely State of Hill Tippera (Tripura)",
+    "descriptionShort": "Capital of the ancient Manikya dynasty of Hill Tippera state, home to Ujjayanta Palace built by Maharaja Radha Kishore Manikya.",
+    "descriptionLong": "Moved from Old Agartala by Maharaja Krishna Manikya in 1760, Agartala was the royal seat of Maharaja Radha Kishore Manikya in 1905, who was a close friend and patron of Rabindranath Tagore.",
+    "famousSpecialties": "Ujjayanta Palace architecture, Tripura Manikya royal heritage, bamboo and cane craft, and patronage of Bengali literature.",
+    "revolutionarySignificance": "Independent Manikya kingdom sanctuary; royal patron Maharaja Radha Kishore Manikya funded Rabindranath Tagore's educational and Swadeshi efforts.",
+    "politicalHistory": [
+      { "period": "Manikya Dynasty", "ruler": "Maharajas of Tripura", "periodDetails": "Independent native kingdom in treaty alliance with British India." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XIII, pp. 115-122" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q170451",
+    "geoNamesId": "1279228"
+  },
+  {
+    "id": "serampore",
+    "slug": "serampore",
+    "name": "Serampore",
+    "historicalName": "Serampore",
+    "modernName": "Serampore",
+    "alternateNames": ["Frederiksnagore", "Srirampur"],
+    "type": "town",
+    "latitude": 22.7500,
+    "longitude": 88.3400,
+    "divisionId": "burdwan",
+    "districtId": "hooghly",
+    "historicalStatus": "Former Danish Settlement (1755–1845) & Serampore Mission Press",
+    "descriptionShort": "Historic Hugli river town famous as Danish Frederiksnagore until 1845, site of William Carey's Serampore Mission Press.",
+    "descriptionLong": "Leased to Denmark in 1755, Serampore became a sanctuary for Baptist missionaries William Carey, Joshua Marshman, and William Ward, who founded Serampore College (1818) and the first vernacular printing presses in India.",
+    "famousSpecialties": "First Indian language metal type printing press (Serampore Trio), Serampore College (1818), Danish colonial architecture, and textile weaving.",
+    "revolutionarySignificance": "Cradle of Bengal's vernacular printing revolution (*Samachar Darpan* 1818); active in 1905 Swadeshi boycott meetings.",
+    "politicalHistory": [
+      { "period": "1755 – 1845", "ruler": "Danish East India Company", "periodDetails": "Known as Frederiksnagore under Danish Crown." },
+      { "period": "1845 – 1905", "ruler": "British Raj (Hooghly District)", "periodDetails": "Sold to British EIC in 1845." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XXII, pp. 178-182" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q1025281",
+    "geoNamesId": "1256799"
+  },
+  {
+    "id": "chandernagore",
+    "slug": "chandernagore",
+    "name": "Chandernagore",
+    "historicalName": "Chandernagore",
+    "modernName": "Chandannagar",
+    "alternateNames": ["Chandannagar", "Farashdanga"],
+    "type": "town",
+    "latitude": 22.8670,
+    "longitude": 88.3670,
+    "divisionId": "burdwan",
+    "districtId": "hooghly",
+    "historicalStatus": "French Sovereign Enclave in Bengal",
+    "descriptionShort": "Sovereign French enclave on the Hugli river inside Hooghly district, famous for French Strand promenade and revolutionary sanctuary.",
+    "descriptionLong": "Established in 1673 by French Governor Joseph François Dupleix, Chandernagore remained under French sovereignty until 1950. It served as a vital sanctuary for freedom fighters like Sri Aurobindo and Rash Behari Bose during revolutionary underground operations.",
+    "famousSpecialties": "French colonial architecture, Hugli riverfront Strand, Farashdanga fine muslin sarees, and Jagaddhatri Puja celebrations.",
+    "revolutionarySignificance": "Sovereign French territory serving as a safe sanctuary for revolutionary leaders (Sri Aurobindo, Rash Behari Bose, Kanailal Dutta) to evade British police arrests.",
+    "politicalHistory": [
+      { "period": "1673 – 1950", "ruler": "French Republic (French India)", "periodDetails": "French sovereign colonial territory administered by Governor at Pondicherry." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. X, pp. 162-168" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q844855",
+    "geoNamesId": "1274880"
+  },
+  {
+    "id": "bishnupur",
+    "slug": "bishnupur",
+    "name": "Bishnupur",
+    "historicalName": "Bishnupur",
+    "modernName": "Bishnupur",
+    "alternateNames": ["Vishnupur", "Bishnupur"],
+    "type": "town",
+    "latitude": 23.0750,
+    "longitude": 87.3170,
+    "divisionId": "burdwan",
+    "districtId": "bankura",
+    "historicalStatus": "Capital of Mallabhum Malla Kings & Terracotta Temple Center",
+    "descriptionShort": "Historic capital of Malla kings in Bankura district, renowned for 17th-century terracotta Krishna temples and Bishnupuri classical music.",
+    "descriptionLong": "Ruled by the Malla dynasty for over a thousand years, Bishnupur developed a distinct architectural style featuring laterite and terracotta temples (Rasmancha, Jor Bangla, Madan Mohan) built under King Veer Hambir.",
+    "famousSpecialties": "17th-century carved terracotta temples, Bishnupuri Swarnachari & Baluchari silk sarees, Bishnupur Classical Music Gharana, and Dalmadal cannon.",
+    "revolutionarySignificance": "Historical capital of sovereign Mallabhum Hindu kingdom, celebrated by Swadeshi historians for resisting Mughal hegemony.",
+    "politicalHistory": [
+      { "period": "7th – 18th Century", "ruler": "Malla Dynasty of Mallabhum", "periodDetails": "Independent Hindu kingdom patronizing Vaishnavism and classical arts." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. VIII, pp. 245-250" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q866343",
+    "geoNamesId": "1275990"
+  },
+  {
+    "id": "tamluk",
+    "slug": "tamluk",
+    "name": "Tamluk",
+    "historicalName": "Tamluk",
+    "modernName": "Tamluk",
+    "alternateNames": ["Tamralipta", "Tamralipti"],
+    "type": "town",
+    "latitude": 22.3000,
+    "longitude": 87.9200,
+    "divisionId": "burdwan",
+    "districtId": "midnapore",
+    "historicalStatus": "Ancient International Seaport of Tamralipta",
+    "descriptionShort": "Sub-divisional town in Midnapore district, identified as ancient maritime port of Tamralipta visited by Xuanzang and Faxian.",
+    "descriptionLong": "Mentioned in the Mahabharata and Greco-Roman records (Ptolemy), Tamralipta was the primary sea gateway from northern India to Sri Lanka, Southeast Asia, and China during the Mauryan and Gupta eras.",
+    "famousSpecialties": "Ancient Tamralipta archaeological artifacts, Bargabhima Temple (Shakti Peetha), and Rupnarayan river estuary commerce.",
+    "revolutionarySignificance": "Historic center of Midnapore anti-colonial resistance; later site of the famous Tamralipta Jatiya Sarkar parallel government in 1942.",
+    "politicalHistory": [
+      { "period": "Ancient", "ruler": "Tamralipta Kingdom & Guptas", "periodDetails": "Maritime Buddhist port city on the Rupnarayan river." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XXIII, pp. 112-116" },
+      { "sourceId": "bengal-gazetteer-midnapore", "pages": "pp. 200-215" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q962294",
+    "geoNamesId": "1254316"
+  },
+  {
+    "id": "sonargaon",
+    "slug": "sonargaon",
+    "name": "Sonargaon",
+    "historicalName": "Sonargaon",
+    "modernName": "Sonargaon (Narayanganj)",
+    "alternateNames": ["Suvarnagrama", "Painam Nagar"],
+    "type": "historical_site",
+    "latitude": 23.6486,
+    "longitude": 90.6033,
+    "divisionId": "dacca",
+    "districtId": "dacca",
+    "historicalStatus": "Ancient Capital of East Bengal & Bengal Sultanate Seat",
+    "descriptionShort": "Historic capital of Fakhruddin Mubarak Shah and Isa Khan (Baro-Bhuyan leader), famous for Panam City merchant mansions.",
+    "descriptionLong": "Capital of eastern Bengal from the 13th to 17th centuries, Sonargaon was described by Ibn Battuta and Ralph Fitch as a flourishing metropolis famed for gold trade and woven cloth.",
+    "famousSpecialties": "Panam City (Painam Nagar) architectural merchant mansions, Folk Art & Crafts Museum, and Bengal Sultanate royal tombs.",
+    "revolutionarySignificance": "Capital of Isa Khan and the Baro-Bhuyans (Twelve Chieftains) who fiercely resisted Akbar's Mughal expansion into East Bengal.",
+    "politicalHistory": [
+      { "period": "1340 – 1608", "ruler": "Bengal Sultanate & Baro-Bhuyans (Isa Khan)", "periodDetails": "Independent capital until Subahdar Islam Khan captured it in 1608." }
+    ],
+    "sources": [
+      { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XXIII, pp. 81-85" },
+      { "sourceId": "bengal-gazetteer-dacca", "pages": "pp. 110-125" }
+    ],
+    "confidence": "HIGH",
+    "wikidataId": "Q3348123",
+    "geoNamesId": "1185121"
+  }
+]

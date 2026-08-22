@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "name": "Bengal_Pre_Partition_1905_Boundary",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bengal-pre-partition-1905",
+        "name": "Lieutenant-Governorship of Bengal (Pre-Partition 1905)",
+        "year": 1905,
+        "capital": "Calcutta",
+        "summerCapital": "Darjeeling",
+        "areaSqMiles": 189837,
+        "population1901": 78493410,
+        "confidence": "HIGH"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [83.3, 27.5], [84.8, 27.4], [85.5, 26.8], [87.1, 26.7], [88.1, 27.1],
+            [88.8, 27.2], [88.9, 26.8], [89.8, 26.5], [89.9, 26.0], [92.0, 25.8],
+            [92.4, 24.3], [92.2, 23.5], [92.4, 21.8], [92.2, 20.8], [91.8, 22.2],
+            [91.4, 22.8], [90.5, 22.0], [89.1, 21.6], [88.0, 21.6], [86.9, 21.4],
+            [85.8, 19.8], [85.0, 19.4], [84.0, 20.2], [83.8, 21.5], [83.0, 22.2],
+            [84.1, 24.0], [83.4, 24.6], [83.3, 25.4], [84.0, 26.2], [83.3, 27.5]
+          ]
+        ]
+      }
+    }
+  ]
+}

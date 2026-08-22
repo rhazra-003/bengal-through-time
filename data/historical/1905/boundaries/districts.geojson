@@ -1,0 +1,251 @@
+{
+  "type": "FeatureCollection",
+  "name": "Bengal_Districts_1905",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "id": "calcutta", "name": "Calcutta", "divisionId": "presidency", "division": "Presidency Division", "headquarters": "Calcutta", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[88.31, 22.52], [88.40, 22.52], [88.40, 22.61], [88.31, 22.61], [88.31, 22.52]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "24-parganas", "name": "24-Parganas", "divisionId": "presidency", "division": "Presidency Division", "headquarters": "Alipore", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[88.10, 21.60], [89.10, 21.60], [89.10, 22.80], [88.10, 22.80], [88.10, 21.60]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "nadia", "name": "Nadia", "divisionId": "presidency", "division": "Presidency Division", "headquarters": "Krishnagar", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[88.20, 22.80], [89.00, 22.80], [89.00, 24.10], [88.20, 24.10], [88.20, 22.80]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "murshidabad", "name": "Murshidabad", "divisionId": "presidency", "division": "Presidency Division", "headquarters": "Berhampore", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[87.80, 23.70], [88.70, 23.70], [88.70, 24.80], [87.80, 24.80], [87.80, 23.70]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "jessore", "name": "Jessore", "divisionId": "presidency", "division": "Presidency Division", "headquarters": "Jessore", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[88.90, 22.80], [89.80, 22.80], [89.80, 23.80], [88.90, 23.80], [88.90, 22.80]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "khulna", "name": "Khulna", "divisionId": "presidency", "division": "Presidency Division", "headquarters": "Khulna", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[88.90, 21.60], [89.90, 21.60], [89.90, 23.00], [88.90, 23.00], [88.90, 21.60]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "burdwan", "name": "Burdwan", "divisionId": "burdwan", "division": "Burdwan Division", "headquarters": "Burdwan", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[86.80, 23.00], [88.20, 23.00], [88.20, 23.90], [86.80, 23.90], [86.80, 23.00]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "birbhum", "name": "Birbhum", "divisionId": "burdwan", "division": "Burdwan Division", "headquarters": "Suri", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[87.10, 23.50], [88.00, 23.50], [88.00, 24.60], [87.10, 24.60], [87.10, 23.50]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "bankura", "name": "Bankura", "divisionId": "burdwan", "division": "Burdwan Division", "headquarters": "Bankura", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[86.60, 22.60], [87.80, 22.60], [87.80, 23.60], [86.60, 23.60], [86.60, 22.60]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "midnapore", "name": "Midnapore", "divisionId": "burdwan", "division": "Burdwan Division", "headquarters": "Midnapore", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[86.60, 21.60], [88.20, 21.60], [88.20, 23.00], [86.60, 23.00], [86.60, 21.60]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "hooghly", "name": "Hooghly", "divisionId": "burdwan", "division": "Burdwan Division", "headquarters": "Hooghly", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[87.70, 22.60], [88.50, 22.60], [88.50, 23.20], [87.70, 23.20], [87.70, 22.60]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "howrah", "name": "Howrah", "divisionId": "burdwan", "division": "Burdwan Division", "headquarters": "Howrah", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[87.80, 22.20], [88.35, 22.20], [88.35, 22.70], [87.80, 22.70], [87.80, 22.20]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "rajshahi", "name": "Rajshahi", "divisionId": "rajshahi", "division": "Rajshahi Division", "headquarters": "Rampur Boalia", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[88.30, 24.00], [89.40, 24.00], [89.40, 25.00], [88.30, 25.00], [88.30, 24.00]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "dinajpur", "name": "Dinajpur", "divisionId": "rajshahi", "division": "Rajshahi Division", "headquarters": "Dinajpur", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[88.00, 25.10], [89.20, 25.10], [89.20, 26.30], [88.00, 26.30], [88.00, 25.10]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "jalpaiguri", "name": "Jalpaiguri", "divisionId": "rajshahi", "division": "Rajshahi Division", "headquarters": "Jalpaiguri", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[88.40, 26.20], [89.90, 26.20], [89.90, 27.00], [88.40, 27.00], [88.40, 26.20]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "darjeeling", "name": "Darjeeling", "divisionId": "rajshahi", "division": "Rajshahi Division", "headquarters": "Darjeeling", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[87.90, 26.70], [88.90, 26.70], [88.90, 27.30], [87.90, 27.30], [87.90, 26.70]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "rangpur", "name": "Rangpur", "divisionId": "rajshahi", "division": "Rajshahi Division", "headquarters": "Rangpur", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[88.90, 25.30], [89.90, 25.30], [89.90, 26.40], [88.90, 26.40], [88.90, 25.30]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "bogra", "name": "Bogra", "divisionId": "rajshahi", "division": "Rajshahi Division", "headquarters": "Bogra", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[88.80, 24.50], [89.70, 24.50], [89.70, 25.30], [88.80, 25.30], [88.80, 24.50]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "pabna", "name": "Pabna", "divisionId": "rajshahi", "division": "Rajshahi Division", "headquarters": "Pabna", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[89.00, 23.80], [89.90, 23.80], [89.90, 24.70], [89.00, 24.70], [89.00, 23.80]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "malda", "name": "Malda", "divisionId": "rajshahi", "division": "Rajshahi Division", "headquarters": "English Bazar", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[87.70, 24.50], [88.50, 24.50], [88.50, 25.50], [87.70, 25.50], [87.70, 24.50]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "dacca", "name": "Dacca", "divisionId": "dacca", "division": "Dacca Division", "headquarters": "Dacca", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[89.80, 23.40], [90.80, 23.40], [90.80, 24.40], [89.80, 24.40], [89.80, 23.40]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "mymensingh", "name": "Mymensingh", "divisionId": "dacca", "division": "Dacca Division", "headquarters": "Mymensingh", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[89.60, 23.90], [91.10, 23.90], [91.10, 25.30], [89.60, 25.30], [89.60, 23.90]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "faridpur", "name": "Faridpur", "divisionId": "dacca", "division": "Dacca Division", "headquarters": "Faridpur", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[89.40, 22.80], [90.40, 22.80], [90.40, 23.90], [89.40, 23.90], [89.40, 22.80]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "backergunge", "name": "Backergunge", "divisionId": "dacca", "division": "Dacca Division", "headquarters": "Barisal", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[89.80, 21.80], [90.90, 21.80], [90.90, 23.10], [89.80, 23.10], [89.80, 21.80]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "chittagong", "name": "Chittagong", "divisionId": "chittagong", "division": "Chittagong Division", "headquarters": "Chittagong", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[91.40, 20.60], [92.30, 20.60], [92.30, 22.80], [91.40, 22.80], [91.40, 20.60]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "chittagong-hill-tracts", "name": "Chittagong Hill Tracts", "divisionId": "chittagong", "division": "Chittagong Division", "headquarters": "Rangamati", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[91.80, 21.20], [92.70, 21.20], [92.70, 23.80], [91.80, 23.80], [91.80, 21.20]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "noakhali", "name": "Noakhali", "divisionId": "chittagong", "division": "Chittagong Division", "headquarters": "Noakhali", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[90.80, 22.30], [91.60, 22.30], [91.60, 23.20], [90.80, 23.20], [90.80, 22.30]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "tippera", "name": "Tippera", "divisionId": "chittagong", "division": "Chittagong Division", "headquarters": "Comilla", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[90.60, 23.10], [91.50, 23.10], [91.50, 24.20], [90.60, 24.20], [90.60, 23.10]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "patna", "name": "Patna", "divisionId": "patna", "division": "Patna Division", "headquarters": "Patna", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[84.70, 25.10], [85.70, 25.10], [85.70, 25.70], [84.70, 25.70], [84.70, 25.10]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "gaya", "name": "Gaya", "divisionId": "patna", "division": "Patna Division", "headquarters": "Gaya", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[84.30, 24.30], [85.70, 24.30], [85.70, 25.20], [84.30, 25.20], [84.30, 24.30]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "shahabad", "name": "Shahabad", "divisionId": "patna", "division": "Patna Division", "headquarters": "Arrah", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[83.30, 24.50], [84.80, 24.50], [84.80, 25.70], [83.30, 25.70], [83.30, 24.50]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "saran", "name": "Saran", "divisionId": "patna", "division": "Patna Division", "headquarters": "Chapra", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[83.90, 25.60], [85.20, 25.60], [85.20, 26.60], [83.90, 26.60], [83.90, 25.60]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "champaran", "name": "Champaran", "divisionId": "patna", "division": "Patna Division", "headquarters": "Motihari", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[83.80, 26.30], [85.40, 26.30], [85.40, 27.50], [83.80, 27.50], [83.80, 26.30]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "muzaffarpur", "name": "Muzaffarpur", "divisionId": "patna", "division": "Patna Division", "headquarters": "Muzaffarpur", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[84.90, 25.60], [85.90, 25.60], [85.90, 26.90], [84.90, 26.90], [84.90, 25.60]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "darbhanga", "name": "Darbhanga", "divisionId": "patna", "division": "Patna Division", "headquarters": "Darbhanga", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[85.60, 25.50], [86.80, 25.50], [86.80, 26.80], [85.60, 26.80], [85.60, 25.50]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "bhagalpur", "name": "Bhagalpur", "divisionId": "bhagalpur", "division": "Bhagalpur Division", "headquarters": "Bhagalpur", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[86.40, 24.60], [87.40, 24.60], [87.40, 25.60], [86.40, 25.60], [86.40, 24.60]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "monghyr", "name": "Monghyr", "divisionId": "bhagalpur", "division": "Bhagalpur Division", "headquarters": "Monghyr", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[85.80, 24.40], [86.80, 24.40], [86.80, 25.80], [85.80, 25.80], [85.80, 24.40]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "santal-parganas", "name": "Santal Parganas", "divisionId": "bhagalpur", "division": "Bhagalpur Division", "headquarters": "Dumka", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[86.50, 23.80], [87.90, 23.80], [87.90, 25.30], [86.50, 25.30], [86.50, 23.80]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "purnea", "name": "Purnea", "divisionId": "bhagalpur", "division": "Bhagalpur Division", "headquarters": "Purnea", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[86.90, 25.20], [88.30, 25.20], [88.30, 26.60], [86.90, 26.60], [86.90, 25.20]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "cuttack", "name": "Cuttack", "divisionId": "orissa", "division": "Orissa Division", "headquarters": "Cuttack", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[85.40, 20.10], [86.90, 20.10], [86.90, 21.00], [85.40, 21.00], [85.40, 20.10]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "puri", "name": "Puri", "divisionId": "orissa", "division": "Orissa Division", "headquarters": "Puri", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[85.00, 19.40], [86.40, 19.40], [86.40, 20.30], [85.00, 20.30], [85.00, 19.40]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "balasore", "name": "Balasore", "divisionId": "orissa", "division": "Orissa Division", "headquarters": "Balasore", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[86.20, 20.70], [87.50, 20.70], [87.50, 21.80], [86.20, 21.80], [86.20, 20.70]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "angul", "name": "Angul", "divisionId": "orissa", "division": "Orissa Division", "headquarters": "Angul", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[84.20, 20.30], [85.50, 20.30], [85.50, 21.40], [84.20, 21.40], [84.20, 20.30]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "sambalpur", "name": "Sambalpur", "divisionId": "orissa", "division": "Orissa Division", "headquarters": "Sambalpur", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[83.30, 20.70], [84.80, 20.70], [84.80, 22.20], [83.30, 22.20], [83.30, 20.70]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "hazaribagh", "name": "Hazaribagh", "divisionId": "chota-nagpur", "division": "Chota Nagpur Division", "headquarters": "Hazaribagh", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[84.80, 23.40], [86.40, 23.40], [86.40, 24.80], [84.80, 24.80], [84.80, 23.40]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "ranchi", "name": "Ranchi", "divisionId": "chota-nagpur", "division": "Chota Nagpur Division", "headquarters": "Ranchi", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[84.10, 22.40], [85.90, 22.40], [85.90, 23.70], [84.10, 23.70], [84.10, 22.40]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "palamau", "name": "Palamau", "divisionId": "chota-nagpur", "division": "Chota Nagpur Division", "headquarters": "Daltonganj", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[83.30, 23.40], [84.90, 23.40], [84.90, 24.60], [83.30, 24.60], [83.30, 23.40]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "manbhum", "name": "Manbhum", "divisionId": "chota-nagpur", "division": "Chota Nagpur Division", "headquarters": "Purulia", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[85.80, 22.80], [86.90, 22.80], [86.90, 24.10], [85.80, 24.10], [85.80, 22.80]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "singbhum", "name": "Singbhum", "divisionId": "chota-nagpur", "division": "Chota Nagpur Division", "headquarters": "Chaibasa", "year": 1905, "confidence": "HIGH" },
+      "geometry": { "type": "Polygon", "coordinates": [[[85.00, 21.90], [86.60, 21.90], [86.60, 23.00], [85.00, 23.00], [85.00, 21.90]]] }
+    }
+  ]
+}

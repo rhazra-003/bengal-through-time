@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --parchment-bg: #f7f2e6;
+    --parchment-card: #fdfbf7;
+    --parchment-border: #d8cdb8;
+    --ink-main: #241e17;
+    --ink-muted: #685e52;
+    --brass-amber: #8b3a0f;
+  }
+
+  body {
+    background-color: var(--parchment-bg);
+    color: var(--ink-main);
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, .font-serif-header {
+    font-family: 'Cinzel', 'Playfair Display', serif;
+  }
+}
+
+/* Custom Parchment Overlay Effects */
+.parchment-texture {
+  background-color: #f7f2e6;
+  background-image: radial-gradient(#d8cdb8 0.75px, transparent 0.75px), radial-gradient(#d8cdb8 0.75px, #f7f2e6 0.75px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+}
+
+.maplibre-canvas-container {
+  cursor: grab;
+}
+
+.maplibre-canvas-container:active {
+  cursor: grabbing;
+}
+
+/* Custom Scrollbar for Historical Cards */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #ede6d6;
+}
+::-webkit-scrollbar-thumb {
+  background: #c2b299;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8b3a0f;
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "id": "imp-gazetteer-1907",
+    "title": "Imperial Gazetteer of India (New Edition)",
+    "author": "Sir William Wilson Hunter et al.",
+    "publicationYear": 1907,
+    "publisher": "Clarendon Press, Oxford",
+    "type": "gazetteer",
+    "url": "https://dsal.uchicago.edu/gazetteers/",
+    "citation": "Imperial Gazetteer of India, New Edition, Oxford: Clarendon Press, 1907-1909.",
+    "notes": "Primary geographical and administrative reference authority for British India."
+  },
+  {
+    "id": "census-1901",
+    "title": "Census of India, 1901: Volume VI — The Lower Provinces of Bengal and their Feudatory States",
+    "author": "E. A. Gait",
+    "publicationYear": 1902,
+    "publisher": "Bengal Secretariat Press, Calcutta",
+    "type": "census",
+    "url": "https://dspace.giap.org.in/",
+    "citation": "Gait, E.A., Census of India 1901, Vol. VI: Bengal, Calcutta: Bengal Secretariat Press, 1902.",
+    "notes": "Official 1901 demographic baseline report."
+  },
+  {
+    "id": "bengal-gazetteer-24parganas",
+    "title": "Bengal District Gazetteers: 24-Parganas",
+    "author": "L. S. S. O'Malley",
+    "publicationYear": 1914,
+    "publisher": "Bengal Secretariat Book Depot, Calcutta",
+    "type": "gazetteer",
+    "citation": "O'Malley, L.S.S., Bengal District Gazetteers: 24-Parganas, Calcutta, 1914.",
+    "notes": "Detailed local history of Alipore, Sundarbans, and suburban Calcutta."
+  },
+  {
+    "id": "bengal-gazetteer-murshidabad",
+    "title": "Bengal District Gazetteers: Murshidabad",
+    "author": "L. S. S. O'Malley",
+    "publicationYear": 1914,
+    "publisher": "Bengal Secretariat Book Depot, Calcutta",
+    "type": "gazetteer",
+    "citation": "O'Malley, L.S.S., Bengal District Gazetteers: Murshidabad, Calcutta, 1914.",
+    "notes": "Comprehensive record of the Nawabs of Bengal, Plassey, and Berhampore."
+  },
+  {
+    "id": "bengal-gazetteer-dacca",
+    "title": "Eastern Bengal District Gazetteers: Dacca",
+    "author": "B. C. Allen",
+    "publicationYear": 1912,
+    "publisher": "The Allahabad Pioneer Press",
+    "type": "gazetteer",
+    "citation": "Allen, B.C., Eastern Bengal District Gazetteers: Dacca, Allahabad, 1912.",
+    "notes": "Detailed study of Mughal Dacca, muslin industry, and Bikrampur."
+  },
+  {
+    "id": "bengal-gazetteer-chittagong",
+    "title": "Eastern Bengal District Gazetteers: Chittagong",
+    "author": "L. S. S. O'Malley",
+    "publicationYear": 1908,
+    "publisher": "Bengal Secretariat Book Depot, Calcutta",
+    "type": "gazetteer",
+    "citation": "O'Malley, L.S.S., Eastern Bengal District Gazetteers: Chittagong, Calcutta, 1908.",
+    "notes": "Port history, Arakanese relations, and hill tribes."
+  },
+  {
+    "id": "bengal-gazetteer-darjeeling",
+    "title": "Bengal District Gazetteers: Darjeeling",
+    "author": "L. S. S. O'Malley",
+    "publicationYear": 1907,
+    "publisher": "Bengal Secretariat Book Depot, Calcutta",
+    "type": "gazetteer",
+    "citation": "O'Malley, L.S.S., Bengal District Gazetteers: Darjeeling, Calcutta, 1907.",
+    "notes": "Himalayan hill station, tea industry, and Sikkim frontier history."
+  },
+  {
+    "id": "bengal-gazetteer-midnapore",
+    "title": "Bengal District Gazetteers: Midnapore",
+    "author": "L. S. S. O'Malley",
+    "publicationYear": 1911,
+    "publisher": "Bengal Secretariat Book Depot, Calcutta",
+    "type": "gazetteer",
+    "citation": "O'Malley, L.S.S., Bengal District Gazetteers: Midnapore, Calcutta, 1911.",
+    "notes": "Covers ancient Tamralipta, Hijli kingdom, and coastal tracts."
+  },
+  {
+    "id": "bengal-gazetteer-puri",
+    "title": "Bengal District Gazetteers: Puri",
+    "author": "L. S. S. O'Malley",
+    "publicationYear": 1908,
+    "publisher": "Bengal Secretariat Book Depot, Calcutta",
+    "type": "gazetteer",
+    "citation": "O'Malley, L.S.S., Bengal District Gazetteers: Puri, Calcutta, 1908.",
+    "notes": "Jagannath Temple administration, Konark, and Khurda rebellion."
+  },
+  {
+    "id": "bengal-gazetteer-santal-parganas",
+    "title": "Bengal District Gazetteers: Santal Parganas",
+    "author": "L. S. S. O'Malley",
+    "publicationYear": 1910,
+    "publisher": "Bengal Secretariat Book Depot, Calcutta",
+    "type": "gazetteer",
+    "citation": "O'Malley, L.S.S., Bengal District Gazetteers: Santal Parganas, Calcutta, 1910.",
+    "notes": "Santhal Hul of 1855, Rajmahal hills, and Damin-i-koh."
+  },
+  {
+    "id": "survey-of-india-1904",
+    "title": "Map of the Lieutenant-Governorship of Bengal",
+    "author": "Surveyor General of India",
+    "publicationYear": 1904,
+    "publisher": "Survey of India Offices, Calcutta",
+    "type": "historical map",
+    "citation": "Survey of India, Map of Bengal Lieutenant-Governorship, Calcutta, 1904.",
+    "notes": "Cartographic baseline for 1905 administrative boundaries."
+  },
+  {
+    "id": "wikicommons",
+    "title": "Wikimedia Commons Historical Photographic Archive",
+    "author": "Various / Photographers of British India (1860-1910)",
+    "publicationYear": 1905,
+    "publisher": "Wikimedia Foundation",
+    "type": "archive",
+    "url": "https://commons.wikimedia.org/",
+    "citation": "Wikimedia Commons Media Repository (Public Domain & Open Licenses)",
+    "notes": "Source for authentic open-licensed historical photography and prints."
+  }
+]
