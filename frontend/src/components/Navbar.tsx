@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Search, Compass, BookOpen, Clock, Menu, X, Landmark, HelpCircle } from 'lucide-react';
 
@@ -9,7 +9,21 @@ interface NavbarProps {
 
 export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onOpenAboutModal }) => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const headerRef = useRef<HTMLElement>(null);
   const location = useLocation();
+
+  useEffect(() => {
+    if (!mobileMenuOpen) return;
+
+    const handlePointerDown = (event: PointerEvent) => {
+      if (headerRef.current && !headerRef.current.contains(event.target as Node)) {
+        setMobileMenuOpen(false);
+      }
+    };
+
+    document.addEventListener('pointerdown', handlePointerDown);
+    return () => document.removeEventListener('pointerdown', handlePointerDown);
+  }, [mobileMenuOpen]);
 
   const navLinks = [
     { path: '/', label: 'Historical Map', icon: Compass },
@@ -20,7 +34,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenSearch, onOpenAboutModal }
   ];
 
   return (
-    <header className="sticky top-0 z-40 bg-parchment-100/95 backdrop-blur border-b border-parchment-300 shadow-sm">
+    <header ref={headerRef} className="sticky top-0 z-40 bg-parchment-100/95 backdrop-blur border-b border-parchment-300 shadow-sm">
       <div className="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 gap-4">
           

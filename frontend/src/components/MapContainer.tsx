@@ -167,7 +167,10 @@ export const MapContainer: React.FC<MapContainerProps> = ({
       map.on('click', 'districts-fill', (e) => {
         if (e.features && e.features.length > 0 && onSelectDistrict) {
           const distId = e.features[0].properties?.id;
-          if (distId) onSelectDistrict(distId);
+          if (distId) {
+            closeActivePopup();
+            onSelectDistrict(distId);
+          }
         }
       });
 
@@ -200,6 +203,13 @@ export const MapContainer: React.FC<MapContainerProps> = ({
       });
     }
   }, [selectedPlace]);
+
+  const closeActivePopup = () => {
+    if (activePopupRef.current) {
+      activePopupRef.current.remove();
+      activePopupRef.current = null;
+    }
+  };
 
   // Render Place Markers
   const renderPlaceMarkers = (map: maplibregl.Map) => {
@@ -246,6 +256,7 @@ export const MapContainer: React.FC<MapContainerProps> = ({
 
       el.addEventListener('click', (e) => {
         e.stopPropagation();
+        closeActivePopup();
         onSelectPlace(place);
       });
 
@@ -360,7 +371,7 @@ export const MapContainer: React.FC<MapContainerProps> = ({
   return (
     <div className="relative w-full h-full min-h-[500px]">
       <div ref={mapContainerRef} className="w-full h-full" />
-      <div className="absolute top-4 left-4 z-10 bg-parchment-100/95 backdrop-blur px-3 py-1.5 rounded-lg border border-parchment-300 shadow text-xs font-serif font-semibold text-ink flex items-center gap-2">
+      <div className="hidden lg:flex absolute top-4 left-4 z-10 bg-parchment-100/95 backdrop-blur px-3 py-1.5 rounded-lg border border-parchment-300 shadow text-xs font-serif font-semibold text-ink items-center gap-2">
         <span className="w-2 h-2 rounded-full bg-brass-amber animate-pulse"></span>
         Bengal — c. 1905 Setting
       </div>

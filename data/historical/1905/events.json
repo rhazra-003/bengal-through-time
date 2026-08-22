@@ -26,19 +26,6 @@
     "sources": ["imp-gazetteer-1907"]
   },
   {
-    "id": "permanent-settlement-1793",
-    "name": "Enactment of Permanent Settlement",
-    "date": "22 March 1793",
-    "year": 1793,
-    "type": "administrative change",
-    "placeId": "calcutta",
-    "districtId": "calcutta",
-    "latitude": 22.5726,
-    "longitude": 88.3639,
-    "description": "Governor-General Lord Cornwallis introduced the Permanent Settlement, fixing land revenues in perpetuity and creating the landlord (Zamindari) class across Bengal, Bihar, and Orissa.",
-    "sources": ["imp-gazetteer-1907", "census-1901"]
-  },
-  {
     "id": "santhal-rebellion-1855",
     "name": "Santhal Hul (Rebellion)",
     "date": "30 June 1855",
@@ -63,18 +50,5 @@
     "longitude": 88.5000,
     "description": "Peasant uprising against forced indigo cultivation by European planters across Nadia, Jessore, and Pabna, immortalized in Dinabandhu Mitra's play 'Nil Darpan'.",
     "sources": ["imp-gazetteer-1907"]
-  },
-  {
-    "id": "partition-proclamation-1905",
-    "name": "Partition of Bengal Takes Effect",
-    "date": "16 October 1905",
-    "year": 1905,
-    "type": "political event",
-    "placeId": "calcutta",
-    "districtId": "calcutta",
-    "latitude": 22.5726,
-    "longitude": 88.3639,
-    "description": "Curzon's partition officially divides Bengal into 'Eastern Bengal & Assam' (capital Dacca) and 'Bengal' (capital Calcutta). Marked by Rakhi Bandhan brotherly solidarity unity pledges and the launch of the Swadeshi Movement.",
-    "sources": ["imp-gazetteer-1907", "census-1901"]
   }
 ]
