@@ -4,6 +4,7 @@ import { dataService } from '../services/dataService';
 import { WhoRuledHere } from '../components/WhoRuledHere';
 import { SourceCitation } from '../components/SourceCitation';
 import { Footer } from '../components/Footer';
+import { PlaceImage } from '../components/PlaceImage';
 import { MapPin, Landmark, ArrowLeft, Compass, ShieldCheck, Sparkles, Flame, BookOpen } from 'lucide-react';
 
 export const PlaceDetailPage: React.FC = () => {
@@ -82,6 +83,9 @@ export const PlaceDetailPage: React.FC = () => {
             </div>
           </div>
         </div>
+
+        {/* Historical Place Image */}
+        <PlaceImage placeName={place.name} slug={place.slug} />
 
         {/* Administrative Details & Name Variants Banner */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
