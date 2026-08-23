@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Compass, BookOpen, FileText, ShieldAlert, HelpCircle, ExternalLink } from 'lucide-react';
+import { ShieldAlert, ExternalLink } from 'lucide-react';
 
 export const Footer: React.FC = () => {
   return (
@@ -53,6 +53,11 @@ export const Footer: React.FC = () => {
               <li>
                 <Link to="/how-to-use" className="hover:text-brass-amber transition-colors flex items-center gap-1.5">
                   How to Use Guide
+                </Link>
+              </li>
+              <li>
+                <Link to="/knowledge-check" className="hover:text-brass-amber transition-colors flex items-center gap-1.5">
+                  Knowledge Check
                 </Link>
               </li>
             </ul>

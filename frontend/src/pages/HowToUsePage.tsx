@@ -1,6 +1,6 @@
 import React from 'react';
 import { Footer } from '../components/Footer';
-import { Compass, BookOpen, Search, Layers, Crown, GraduationCap, Award, Users } from 'lucide-react';
+import { Compass, Search, Layers, Crown, GraduationCap, Award, Users, Brain, Clock } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 export const HowToUsePage: React.FC = () => {
@@ -110,22 +110,56 @@ export const HowToUsePage: React.FC = () => {
               </div>
               <div className="space-y-1">
                 <h3 className="font-serif font-bold text-sm text-ink flex items-center gap-2">
-                  <Search className="w-4 h-4 text-brass-amber" /> Global Search & Then vs Now Resolution
+                  <Search className="w-4 h-4 text-brass-amber" /> Global Search
                 </h3>
                 <p className="text-xs leading-relaxed">
-                  Press <kbd className="bg-parchment-300 px-1.5 py-0.5 rounded text-[10px] text-ink font-semibold">⌘K</kbd> or click the search bar to search across historical names, modern equivalents, transliterations, and battle sites. Use the <strong>Then vs Now</strong> tab to view district boundaries sorted by 1901 population.
+                  Press <kbd className="bg-parchment-300 px-1.5 py-0.5 rounded text-[10px] text-ink font-semibold">⌘K</kbd> or click the search bar to search across historical names, modern equivalents, transliterations, and battle sites.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-start gap-4">
+              <div className="w-8 h-8 rounded-lg bg-brass-amber text-parchment-100 flex items-center justify-center shrink-0 font-serif font-bold">
+                5
+              </div>
+              <div className="space-y-1">
+                <h3 className="font-serif font-bold text-sm text-ink flex items-center gap-2">
+                  <Clock className="w-4 h-4 text-brass-amber" /> Then vs Now Resolution
+                </h3>
+                <p className="text-xs leading-relaxed">
+                  Use the <strong>Then vs Now</strong> tab to compare historical and modern place names and view district boundaries sorted by 1901 population.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-start gap-4">
+              <div className="w-8 h-8 rounded-lg bg-brass-amber text-parchment-100 flex items-center justify-center shrink-0 font-serif font-bold">
+                6
+              </div>
+              <div className="space-y-1">
+                <h3 className="font-serif font-bold text-sm text-ink flex items-center gap-2">
+                  <Brain className="w-4 h-4 text-brass-amber" /> Knowledge Check
+                </h3>
+                <p className="text-xs leading-relaxed">
+                  Test your understanding with upto 50 multiple-choice questions. Answer five questions per round, reveal each answer after submission, and unlock the next round with Try More.
                 </p>
               </div>
             </div>
 
           </div>
 
-          <div className="pt-4 border-t border-parchment-300">
+          <div className="flex flex-wrap items-center gap-3 pt-4 border-t border-parchment-300">
             <Link
               to="/"
               className="inline-flex items-center gap-2 bg-brass-amber text-parchment-100 font-serif font-bold px-4 py-2.5 rounded-lg hover:bg-amber-900 transition-colors text-xs shadow"
             >
               Start Exploring the Map Now →
+            </Link>
+            <Link
+              to="/knowledge-check"
+              className="inline-flex items-center gap-2 border border-brass-amber/50 text-brass-amber font-serif font-bold px-4 py-2.5 rounded-lg hover:bg-parchment-100 transition-colors text-xs"
+            >
+              <Brain className="w-4 h-4" /> Knowledge Check
             </Link>
           </div>
 

@@ -40,7 +40,7 @@ export const AboutPage: React.FC = () => {
             <ul className="list-disc list-inside space-y-1 text-xs text-ink-muted">
               <li><strong>HIGH:</strong> Corroborated by Imperial Gazetteer (1907) and Survey of India maps.</li>
               <li><strong>MEDIUM:</strong> Corroborated by single gazetteer + Wikidata coordinates.</li>
-              <li><strong>LOW / UNCERTAIN:</strong> Annotated explicitly in UI where primary sources conflict.</li>
+              <li><strong>LOW / UNCERTAIN:</strong> Annotated explicitly where primary sources conflict.</li>
             </ul>
           </div>
 

@@ -83,8 +83,8 @@ events.forEach(evt => {
 });
 
 if (errors > 0) {
-  console.error(`❌ Data validation failed with ${errors} error(s).`);
+  console.error(`Data validation failed with ${errors} error(s).`);
   process.exit(1);
 } else {
-  console.log('✅ All JSON datasets and referential linkages validated successfully!');
+  console.log('All JSON datasets and referential linkages validated successfully!');
 }

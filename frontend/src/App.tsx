@@ -11,6 +11,7 @@ import { PartitionResearchPage } from './pages/PartitionResearchPage';
 import { HowToUsePage } from './pages/HowToUsePage';
 import { SourcesPage } from './pages/SourcesPage';
 import { AboutPage } from './pages/AboutPage';
+import { KnowledgeCheckPage } from './pages/KnowledgeCheckPage';
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -41,6 +42,7 @@ export function App() {
             <Route path="/how-to-use" element={<HowToUsePage />} />
             <Route path="/sources" element={<SourcesPage />} />
             <Route path="/about" element={<AboutPage />} />
+            <Route path="/knowledge-check" element={<KnowledgeCheckPage />} />
           </Routes>
         </div>
 

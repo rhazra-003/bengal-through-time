@@ -44,7 +44,7 @@ export const PlaceDetailPage: React.FC = () => {
             onClick={() => navigate(-1)}
             className="inline-flex items-center gap-1.5 text-xs font-serif font-semibold text-brass-amber hover:underline"
           >
-            <ArrowLeft className="w-4 h-4" /> Back to Previous View
+            <ArrowLeft className="w-4 h-4" /> Back to Previous Page
           </button>
           <Link
             to="/"
