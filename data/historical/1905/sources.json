@@ -1,5 +1,60 @@
 [
   {
+    "id": "banglapedia-history-bengal",
+    "title": "Banglapedia: History",
+    "author": "Sirajul Islam (ed.)",
+    "publicationYear": 2021,
+    "publisher": "Asiatic Society of Bangladesh",
+    "type": "encyclopedia",
+    "url": "https://en.banglapedia.org/index.php/History",
+    "citation": "Islam, Sirajul (ed.), Banglapedia: National Encyclopedia of Bangladesh, entry 'History', second edition.",
+    "notes": "Chronology for Sena, Sultanate, Mughal, Nawabi, Company, Crown, Pakistan and Bangladesh periods."
+  },
+  {
+    "id": "history-of-bengal-overview",
+    "title": "History of Bengal",
+    "author": "Encyclopaedia Britannica Editors",
+    "publicationYear": 2026,
+    "publisher": "Encyclopaedia Britannica",
+    "type": "encyclopedia",
+    "url": "https://www.britannica.com/place/Bengal-region-Asia",
+    "citation": "Encyclopaedia Britannica, 'Bengal', accessed 26 August 2026.",
+    "notes": "Cross-check for the regional chronology and the 1947 partition and 1971 independence transitions."
+  },
+  {
+    "id": "bengal-presidency-history",
+    "title": "Bengal Presidency",
+    "author": "Various contributors; historical references listed in article",
+    "publicationYear": 2026,
+    "publisher": "Wikipedia",
+    "type": "historical reference overview",
+    "url": "https://en.wikipedia.org/wiki/Bengal_Presidency",
+    "citation": "Bengal Presidency, historical overview and cited bibliography, accessed 26 August 2026.",
+    "notes": "Used only as a cross-reference for provincial reorganizations, 1905–12, 1936 and 1947; primary and scholarly works remain preferred."
+  },
+  {
+    "id": "banglapedia-sonargaon",
+    "title": "Banglapedia: Sonargaon",
+    "author": "Muazzam Hussain Khan",
+    "publicationYear": 2021,
+    "publisher": "Asiatic Society of Bangladesh",
+    "type": "local history",
+    "url": "https://en.banglapedia.org/index.php?title=Sonargaon",
+    "citation": "Khan, Muazzam Hussain, Banglapedia entry 'Sonargaon', second edition.",
+    "notes": "Local chronology for Sonargaon's Hindu, Sultanate, Bhati, Mughal and colonial phases."
+  },
+  {
+    "id": "banglapedia-chittagong-district",
+    "title": "Banglapedia: Chittagong District",
+    "author": "Jasim Uddin Harun",
+    "publicationYear": 2023,
+    "publisher": "Asiatic Society of Bangladesh",
+    "type": "local history",
+    "url": "https://en.banglapedia.org/index.php?title=Chittagong_District",
+    "citation": "Harun, Jasim Uddin, Banglapedia entry 'Chittagong District', second edition.",
+    "notes": "Local chronology for Arakanese, Sultanate, Portuguese, Mughal, British, Pakistan and Bangladesh periods."
+  },
+  {
     "id": "imp-gazetteer-1907",
     "title": "Imperial Gazetteer of India (New Edition)",
     "author": "Sir William Wilson Hunter et al.",

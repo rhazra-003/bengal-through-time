@@ -17,9 +17,15 @@
     "famousSpecialties": "Bengal Renaissance literature & printing, College Street publishing, Jute mills along Hugli river, Fort William, Esplanade, and premier educational universities.",
     "revolutionarySignificance": "Nerve center of the 1905 Swadeshi Movement. Site of Rabindranath Tagore's Rakhi Bandhan march, Anushilan Samiti headquarters, and Barindra Kumar Ghosh's secret Maniktala bomb laboratory (Alipore Bomb Case, 1908).",
     "politicalHistory": [
-      { "period": "Ancient", "ruler": "Gupta Empire & Local Rulers", "periodDetails": "Village settlements along the Hugli river estuary." },
-      { "period": "1690 – 1757", "ruler": "East India Company & Nawabs of Bengal", "periodDetails": "Job Charnock establishes Company factory in 1690; captured briefly by Nawab Siraj-ud-Daulah in 1756." },
-      { "period": "1757 – 1905", "ruler": "British Empire (Capital of British India)", "periodDetails": "Seat of the Governor-General / Viceroy of India and Lieutenant-Governor of Bengal." }
+      { "period": "1200 – 1576", "ruler": "Sena successor chiefs, Delhi governors & Bengal Sultanate", "periodDetails": "The settlement lay in the lower delta, successively within Sena remnants, the Delhi Sultanate's Bengal provinces, and the independent Bengal Sultanate." },
+      { "period": "1576 – 1757", "ruler": "Mughal Empire, then the Nawabs of Bengal", "periodDetails": "Mughal Bengal absorbed the lower Hugli region after 1576; the Nawabs exercised effective provincial authority from Murshidabad after 1717." },
+      { "period": "1698 – 1756", "ruler": "East India Company zamindari at Calcutta", "periodDetails": "The Company acquired zamindari rights in Calcutta, Sutanuti and Govindapur in 1698, while the Nawab remained sovereign over the surrounding province." },
+      { "period": "1757 – 1765", "ruler": "East India Company under a nominal Nawab", "periodDetails": "The Company installed Mir Jafar after Plassey and became the decisive power around Fort William, though Mughal-Nawabi forms remained visible." },
+      { "period": "1765 – 1858", "ruler": "East India Company (Diwani and Presidency government)", "periodDetails": "The 1765 Diwani grant gave the Company Bengal's revenue; direct administration followed in 1772 and Calcutta became the imperial governing centre." },
+      { "period": "1858 – 1905", "ruler": "British Crown (capital of British India)", "periodDetails": "After the 1857 transfer of power, Calcutta remained the Viceroy's capital and the seat of Bengal's government." },
+      { "period": "1905 – 1912", "ruler": "British Crown: Bengal divided; Calcutta in Western Bengal", "periodDetails": "The partition placed Calcutta in the reduced Bengal province; the city remained the centre of anti-partition politics." },
+      { "period": "1912 – 1947", "ruler": "British Crown: Province of Bengal", "periodDetails": "Bengal was reunited in 1912, but the imperial capital moved to Delhi; Calcutta remained Bengal's capital and premier port." },
+      { "period": "1947 – present", "ruler": "Republic of India: West Bengal", "periodDetails": "Partition placed Calcutta in India as the capital of West Bengal; it continues as Kolkata, the state's constitutional and cultural capital." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. IX, pp. 260-290" },
@@ -47,9 +53,19 @@
     "famousSpecialties": "World-famous Dhaka Jamdani Muslin textiles, Nawabi Mughlai cuisine, riverine jute trade, Lalbagh Fort architecture, and shell-carving (Shankhari) craft.",
     "revolutionarySignificance": "Birthplace of Dhaka Anushilan Samiti founded by Pulin Behari Das in Nov 1905, establishing over 500 underground revolutionary branches across East Bengal delta districts.",
     "politicalHistory": [
-      { "period": "Pre-1610", "ruler": "Sena Dynasty & Bengal Sultanate", "periodDetails": "Prominent regional river trade center under Bikrampur rulers and Sultans." },
-      { "period": "1610 – 1717", "ruler": "Mughal Empire (Subahdar Seat)", "periodDetails": "Renamed Jahangirnagar; imperial administrative and naval seat for eastern river fleets." },
-      { "period": "1717 – 1905", "ruler": "Nawabs & British Raj (Division HQ)", "periodDetails": "Remained premier metropolis of Eastern Bengal; made capital of Eastern Bengal & Assam in Oct 1905." }
+      { "period": "1200 – 1576", "ruler": "Sena successor rulers, Deva dynasty and Bengal Sultanate", "periodDetails": "Dacca lay within the changing political landscape of eastern Bengal, near the Deva and later Sultanate centres of Vikramapura and Sonargaon; it was not yet the provincial capital." },
+      { "period": "1576 – 1608", "ruler": "Mughal Empire contested by the Baro-Bhuyans", "periodDetails": "After the Mughal conquest of Bengal, the Bhati region remained contested. Isa Khan and other river chiefs exercised substantial authority around Dacca before Mughal consolidation." },
+      { "period": "1608 – 1704", "ruler": "Mughal Empire (Bengal Subah)", "periodDetails": "Subahdar Islam Khan defeated the Bhati chiefs and transferred the provincial capital from Rajmahal to Dacca in 1610, renaming it Jahangirnagar." },
+      { "period": "1704 – 1717", "ruler": "Mughal Empire under the Bengal subahdars", "periodDetails": "The provincial administration gradually shifted from Dacca toward Murshidabad as Murshid Quli Khan consolidated the diwani and revenue machinery." },
+      { "period": "1717 – 1757", "ruler": "Nawabs of Bengal under nominal Mughal sovereignty", "periodDetails": "Murshidabad became the de facto capital, while Dacca remained the leading city and administrative centre of eastern Bengal, renowned for muslin production." },
+      { "period": "1757 – 1765", "ruler": "Nawabs of Bengal under East India Company influence", "periodDetails": "After Plassey, the Company became the decisive power in Bengal, while Dacca continued under the Nawab's provincial administration." },
+      { "period": "1765 – 1858", "ruler": "East India Company (Bengal Presidency)", "periodDetails": "The Company's Diwani of 1765 brought Dacca district into its revenue system; the city remained an important commercial and administrative centre." },
+      { "period": "1858 – 1905", "ruler": "British Crown (Bengal Province)", "periodDetails": "Dacca was administered as the headquarters of Dacca Division under Crown rule, with municipal institutions and expanding colonial infrastructure." },
+      { "period": "1905 – 1912", "ruler": "British Crown: Eastern Bengal and Assam", "periodDetails": "The first partition made Dacca the capital of the new province of Eastern Bengal and Assam under Lieutenant-Governor Sir Bampfylde Fuller." },
+      { "period": "1912 – 1947", "ruler": "British Crown: Bengal Province", "periodDetails": "The partition was annulled and Dacca reverted to a divisional and district headquarters within reunited Bengal, while Calcutta remained the provincial capital." },
+      { "period": "1947 – 1955", "ruler": "Pakistan: East Bengal", "periodDetails": "Partition placed Dacca in Pakistan's eastern wing; it became the provincial capital of East Bengal and the principal political centre of the region." },
+      { "period": "1955 – 1971", "ruler": "Pakistan: East Pakistan", "periodDetails": "After the province was renamed East Pakistan in 1955, Dacca remained its capital and the centre of the language, autonomy and independence movements." },
+      { "period": "1971 – present", "ruler": "People's Republic of Bangladesh", "periodDetails": "Dacca became the capital of independent Bangladesh after the Liberation War and is now known as Dhaka, the country's national capital." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XI, pp. 101-118" },
@@ -77,8 +93,14 @@
     "famousSpecialties": "Baluchari silk sarees, Ivory carving heritage, Murshidabad Shahi sweets (Chanabora), Hazarduari Palace museum, and Katra Mosque architecture.",
     "revolutionarySignificance": "Site of the first spark of the 1857 Sepoy Revolt at Berhampore Cantonment (19th Native Infantry) and active Swadeshi boycott meetings along the Bhagirathi river.",
     "politicalHistory": [
-      { "period": "1717 – 1757", "ruler": "Nawabs of Bengal", "periodDetails": "Sovereign capital of Murshid Quli Khan, Alivardi Khan, and Siraj-ud-Daulah." },
-      { "period": "1757 – 1905", "ruler": "British Raj (Nawabs of Murshidabad as Titular Chiefs)", "periodDetails": "Administrative center shifted partially to Berhampore; seat of the Nawab Bahadur of Murshidabad." }
+      { "period": "1200 – 1576", "ruler": "Bengal Sultanate", "periodDetails": "The Bhagirathi basin moved from the early Lakhnauti governors into the independent Bengal Sultanate; the Murshidabad area was within its western and central provinces." },
+      { "period": "1576 – 1700", "ruler": "Mughal Empire (Bengal Subah)", "periodDetails": "After Rajmahal, Mughal officers governed the region through sarkars and parganas; local zamindars continued to mediate revenue and landholding." },
+      { "period": "1700 – 1717", "ruler": "Mughal Bengal under Murshid Quli Khan", "periodDetails": "Murshid Quli Khan shifted the diwani administration from Dacca to the Murshidabad area, laying the foundation for its capital status." },
+      { "period": "1717 – 1757", "ruler": "Nawabs of Bengal", "periodDetails": "Murshidabad was the de facto capital of the wealthy Bengal Subah under Murshid Quli Khan, Shuja-ud-Din, Alivardi Khan and Siraj-ud-Daulah." },
+      { "period": "1757 – 1765", "ruler": "Nawabs under East India Company influence", "periodDetails": "After Plassey, the Company controlled succession and finance while the Nawab's court remained at Murshidabad." },
+      { "period": "1765 – 1858", "ruler": "East India Company (Bengal Presidency)", "periodDetails": "The Company acquired the Diwani in 1765 and assumed direct civil administration in 1772; Murshidabad's political role became largely ceremonial." },
+      { "period": "1858 – 1947", "ruler": "British Crown (Bengal Province)", "periodDetails": "The Nawab Bahadur survived as a titular estate holder under British paramountcy while Berhampore served as the principal district and cantonment centre." },
+      { "period": "1947 – present", "ruler": "India: West Bengal", "periodDetails": "Partition placed Murshidabad in India; the former capital is now a historic town within the Republic of India's West Bengal state." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XVIII, pp. 42-58" },
@@ -106,9 +128,16 @@
     "famousSpecialties": "Deepwater maritime shipping, Assam-Bengal Railway terminus, tea export warehouse, and traditional wooden shipbuilding along the Karnaphuli river.",
     "revolutionarySignificance": "Strategic maritime hub for revolutionary secret arms shipments; later site of Surya Sen's (Masterda) legendary 1930 Chittagong Armoury Raid and Jalalabad Hill battle.",
     "politicalHistory": [
-      { "period": "Medieval", "ruler": "Sultans of Bengal & Kings of Arakan (Mrauk U)", "periodDetails": "Contested frontier port city between Bengal and Arakan." },
-      { "period": "1666 – 1760", "ruler": "Mughal Empire (Renamed Islamabad)", "periodDetails": "Conquered by Shaista Khan; established as Mughal naval base." },
-      { "period": "1760 – 1905", "ruler": "British Raj (Division Headquarters)", "periodDetails": "Ceded to EIC by Nawab Mir Qasim; developed into modern railway and shipping hub." }
+      { "period": "1200 – 1340", "ruler": "Local Harikela and eastern Bengal chiefs", "periodDetails": "The port lay in the politically distinct southeast, where local dynasties and coastal chiefs retained authority beyond the reach of the early Lakhnauti governors." },
+      { "period": "1340 – 1538", "ruler": "Bengal Sultanate", "periodDetails": "Fakhruddin Mubarak Shah of Sonargaon conquered Chittagong in 1340; later Ilyas Shahi and Husain Shahi sultans governed the port through appointed officials." },
+      { "period": "1538 – 1666", "ruler": "Kingdom of Arakan (Mrauk U) and Portuguese commanders", "periodDetails": "As Bengal's sultanate weakened, Arakanese power and Portuguese mercenaries or privateers dominated the port and its maritime approaches." },
+      { "period": "1666 – 1760", "ruler": "Mughal Empire (Islamabad)", "periodDetails": "Shaista Khan's forces expelled Arakanese and Portuguese power in 1666, incorporated the port into Bengal Subah and renamed it Islamabad." },
+      { "period": "1760 – 1858", "ruler": "East India Company (Bengal Presidency)", "periodDetails": "Nawab Mir Qasim ceded Chittagong to the Company in 1760; it became a British district headquarters and an expanding port." },
+      { "period": "1858 – 1905", "ruler": "British Crown (Bengal Province)", "periodDetails": "Chittagong remained under Crown administration, with municipal government from 1863 and port administration increasingly formalized." },
+      { "period": "1905 – 1912", "ruler": "British Crown: Eastern Bengal and Assam", "periodDetails": "The partition transferred Chittagong Division to the new eastern province, making the port a major outlet for Assam and eastern Bengal." },
+      { "period": "1912 – 1947", "ruler": "British Crown: Bengal Province", "periodDetails": "Chittagong returned to the reconstituted Bengal administrative system while retaining its strategic port and divisional role." },
+      { "period": "1947 – 1971", "ruler": "Pakistan: East Bengal, later East Pakistan", "periodDetails": "Partition placed Chittagong in Pakistan's eastern wing; the port became its principal maritime gateway." },
+      { "period": "1971 – present", "ruler": "People's Republic of Bangladesh", "periodDetails": "Liberation in 1971 placed Chittagong in Bangladesh; it is now Chattogram, the country's major port city." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. X, pp. 305-320" },
@@ -136,9 +165,15 @@
     "famousSpecialties": "Ancient Pataliputra archaeological heritage, historic Golghar granary, Ganges riverine trade, and traditional Madhubani & Patna Qalam painting styles.",
     "revolutionarySignificance": "Key center during the 1857 Revolt led by Kunwar Singh of Jagdishpur; later active in Swadeshi revolutionary cells across Bihar.",
     "politicalHistory": [
-      { "period": "Ancient", "ruler": "Mauryan & Gupta Empires (Pataliputra)", "periodDetails": "Imperial capital of Chandragupta Maurya, Ashoka, and Chandragupta II." },
-      { "period": "Medieval & Mughal", "ruler": "Suri Empire & Mughal Empire", "periodDetails": "Rebuilt by Sher Shah Suri in 1541; seat of Mughal Subahdars of Bihar." },
-      { "period": "1765 – 1905", "ruler": "British Raj (Division Headquarters)", "periodDetails": "Major river trading depot for indigo, opium, and saltpetre." }
+      { "period": "1200 – 1526", "ruler": "Delhi Sultanate (Bihar province)", "periodDetails": "Patna and the Ganges corridor were governed through successive Delhi Sultanate governors and local landed authorities." },
+      { "period": "1526 – 1540", "ruler": "Mughal Empire under Babur and Humayun", "periodDetails": "Mughal authority extended into Bihar but remained contested by Afghan nobles." },
+      { "period": "1540 – 1555", "ruler": "Sur Empire (Sher Shah Suri and successors)", "periodDetails": "Sher Shah rebuilt the city and its roads as a strategic centre of his Bihar-based empire." },
+      { "period": "1555 – 1765", "ruler": "Mughal Empire, then the Nawabs of Bengal", "periodDetails": "Patna became the headquarters of Bihar under Mughal subahdars and later a key city of the Bengal Nawabs." },
+      { "period": "1765 – 1858", "ruler": "East India Company", "periodDetails": "The Diwani grant and the Company's victory at Buxar brought Patna into the Bengal Presidency's revenue and judicial system." },
+      { "period": "1858 – 1912", "ruler": "British Crown (Bengal Presidency)", "periodDetails": "Patna remained the headquarters of Patna Division under Crown rule." },
+      { "period": "1912 – 1936", "ruler": "British Crown: Bihar and Orissa Province", "periodDetails": "The 1912 reorganization separated Bihar and Orissa from Bengal and made Patna the provincial capital." },
+      { "period": "1936 – 1947", "ruler": "British Crown: Bihar Province", "periodDetails": "Orissa became a separate province in 1936; Patna continued as Bihar's capital until independence." },
+      { "period": "1947 – present", "ruler": "Republic of India: Bihar", "periodDetails": "Patna became the capital of the Indian state of Bihar after independence and remains so today." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XX, pp. 55-72" }
@@ -165,9 +200,14 @@
     "famousSpecialties": "Tarakasi (Silver Filigree) jewelry, Barabati Fort heritage, Katasa handloom sarees, and birthplace of Netaji Subhas Chandra Bose (1897).",
     "revolutionarySignificance": "Birthplace of Netaji Subhas Chandra Bose (23 Jan 1897); headquarters of Madhusudan Das's Utkal Sammilani movement advocating Oriya administrative rights.",
     "politicalHistory": [
-      { "period": "10th – 16th Century", "ruler": "Eastern Ganga & Gajapati Dynasties", "periodDetails": "Sovereign Hindu royal capital of Odisha built around Barabati Fort." },
-      { "period": "1568 – 1803", "ruler": "Bengal Sultanate, Mughals & Marathas", "periodDetails": "Ruled by Sulaiman Karrani, Mughal Subahdars, and Maratha Subahdars." },
-      { "period": "1803 – 1905", "ruler": "British Raj (Orissa Division Headquarters)", "periodDetails": "Headquarters of Commissioner of Orissa Division." }
+      { "period": "1200 – 1568", "ruler": "Eastern Ganga and Gajapati kings of Odisha", "periodDetails": "Cuttack was the fortified capital of the Ganga and Gajapati kingdoms, which controlled coastal Odisha and resisted Bengal-based powers." },
+      { "period": "1568 – 1751", "ruler": "Bengal Sultanate, Mughal Empire and local zamindars", "periodDetails": "After the fall of Mukunda Deva, Bengal's Karrani rulers and then Mughal subahdars governed Cuttack through the Orissa administration." },
+      { "period": "1751 – 1803", "ruler": "Maratha Confederacy (Nagpur Bhonsle)", "periodDetails": "The Marathas held Orissa after the Nawab of Bengal ceded it during the settlement following the Bargi raids." },
+      { "period": "1803 – 1858", "ruler": "East India Company (Orissa Division)", "periodDetails": "The Company occupied Cuttack in 1803 during the Second Anglo-Maratha War and made it the administrative headquarters." },
+      { "period": "1858 – 1912", "ruler": "British Crown (Bengal Presidency)", "periodDetails": "Cuttack continued as the headquarters of Orissa Division under Crown administration." },
+      { "period": "1912 – 1936", "ruler": "British Crown: Bihar and Orissa Province", "periodDetails": "Orissa was separated administratively from Bengal in 1912, with Cuttack retaining its divisional importance." },
+      { "period": "1936 – 1947", "ruler": "British Crown: Orissa Province", "periodDetails": "Orissa became a separate province in 1936; Cuttack served as its capital and principal administrative city." },
+      { "period": "1947 – present", "ruler": "Republic of India: Odisha", "periodDetails": "Cuttack joined India in 1947 and remained Odisha's capital until Bhubaneswar became the political capital in 1948; it remains the state's historic commercial centre." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XI, pp. 85-98" }
@@ -194,8 +234,15 @@
     "famousSpecialties": "Plateau climate, Hundru & Dassam waterfalls, tribal handicrafts, lac production, and sacred Munda Sarna traditions.",
     "revolutionarySignificance": "Epicenter of Birsa Munda's historic Ulgulan (Great Tumult) uprising (1899–1900) against British land encroachment and zamindari exploitation.",
     "politicalHistory": [
-      { "period": "Pre-Colonial", "ruler": "Nagvanshi Dynasty of Chota Nagpur", "periodDetails": "Autonomous tribal kingdom paying nominal tribute to Mughals." },
-      { "period": "1834 – 1905", "ruler": "British Raj (Division & District HQ)", "periodDetails": "Headquarters of Commissioner of Chota Nagpur; site of Birsa Munda revolt in 1899." }
+      { "period": "1200 – 1765", "ruler": "Nagvanshi kings and local Munda-Oraon chiefs", "periodDetails": "The plateau was governed by the Nagvanshi polity and village chiefs, with changing claims of tribute from Bengal, Bihar and the Mughals." },
+      { "period": "1765 – 1834", "ruler": "East India Company and Nagvanshi estate", "periodDetails": "Company revenue authority expanded after the Diwani, while the Nagvanshi ruler and customary tribal institutions retained local influence." },
+      { "period": "1834 – 1858", "ruler": "East India Company (South-West Frontier Agency)", "periodDetails": "Ranchi became the headquarters of the frontier agency as Company officials reorganized the plateau's revenue and policing." },
+      { "period": "1858 – 1905", "ruler": "British Crown (Chota Nagpur Division)", "periodDetails": "Ranchi served as divisional and district headquarters; the 1899–1900 Ulgulan exposed the limits of colonial land policy." },
+      { "period": "1905 – 1912", "ruler": "British Crown: Bengal Presidency", "periodDetails": "Chota Nagpur remained with the western province rather than joining Eastern Bengal and Assam." },
+      { "period": "1912 – 1936", "ruler": "British Crown: Bihar and Orissa Province", "periodDetails": "The 1912 reorganization placed Ranchi in Bihar and Orissa, with the plateau administered through the Chota Nagpur Division." },
+      { "period": "1936 – 1947", "ruler": "British Crown: Bihar Province", "periodDetails": "After Orissa separated, Ranchi remained a major Bihar divisional headquarters." },
+      { "period": "1947 – 2000", "ruler": "Republic of India: Bihar", "periodDetails": "Ranchi became part of independent India and continued as a major administrative centre of Bihar." },
+      { "period": "2000 – present", "ruler": "Republic of India: Jharkhand", "periodDetails": "Ranchi became the capital of the newly created state of Jharkhand on 15 November 2000." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XXI, pp. 198-212" }
@@ -222,8 +269,14 @@
     "famousSpecialties": "World-famous Darjeeling Orthodox Tea plantations, Darjeeling Himalayan Railway (Toy Train, UNESCO), Kangchenjunga panoramas, and Himalayan botanical gardens.",
     "revolutionarySignificance": "Official summer administrative seat of the Lieutenant-Governor of Bengal; later site of revolutionary assassination attempt on Governor Sir John Anderson (1934).",
     "politicalHistory": [
-      { "period": "Pre-1835", "ruler": "Kingdom of Sikkim & Kingdom of Gorkha", "periodDetails": "Border hill territory under Sikkimese and Nepalese control." },
-      { "period": "1835 – 1905", "ruler": "British Raj (Summer Capital of Bengal)", "periodDetails": "Ceded to EIC; established as tea plantation hub and official summer administrative capital." }
+      { "period": "1200 – 1780s", "ruler": "Sikkimese, Gorkha and local Himalayan authorities", "periodDetails": "The hill tract was outside the settled Bengal plains and was governed through shifting Sikkimese and Gorkha claims." },
+      { "period": "1780s – 1816", "ruler": "Kingdom of Gorkha (contested frontier)", "periodDetails": "Gorkha expansion brought much of the Darjeeling hills under Nepalese control before the Anglo-Nepalese War." },
+      { "period": "1817 – 1835", "ruler": "British East India Company and Kingdom of Sikkim", "periodDetails": "The Treaty of Titalia established British influence; the Darjeeling tract was transferred to the Company in 1835." },
+      { "period": "1835 – 1858", "ruler": "East India Company (Darjeeling district)", "periodDetails": "The Company developed Darjeeling as a sanatorium and hill station while recognizing Sikkim's residual frontier claims." },
+      { "period": "1858 – 1905", "ruler": "British Crown (Bengal Province)", "periodDetails": "Darjeeling became the Lieutenant-Governor's summer seat and a district under Crown administration." },
+      { "period": "1905 – 1912", "ruler": "British Crown: Bengal Presidency", "periodDetails": "Darjeeling remained with the western Bengal province while eastern Bengal and Assam was created." },
+      { "period": "1912 – 1947", "ruler": "British Crown: Bengal Province", "periodDetails": "Darjeeling continued as Bengal's summer administrative centre until the end of British rule." },
+      { "period": "1947 – present", "ruler": "Republic of India: West Bengal", "periodDetails": "Darjeeling joined India as part of West Bengal; the hills remain within the state with changing autonomous arrangements." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XI, pp. 165-180" },
@@ -251,7 +304,14 @@
     "famousSpecialties": "Sitabhog & Mihidana sweet delicacies, Curzon Gate landmark, 108 Shiva Temples of Kalna, and Raniganj coalfields.",
     "revolutionarySignificance": "Active center during the Swadeshi boycott; produced prominent freedom fighters and underground press distributors across West Bengal.",
     "politicalHistory": [
-      { "period": "Mughal & Raj", "ruler": "Maharajas of Burdwan & British Raj", "periodDetails": "Seat of the Kapoor Kshatriya dynasty of Burdwan Raj estates." }
+      { "period": "1200 – 1576", "ruler": "Sena successor chiefs and Bengal Sultanate", "periodDetails": "The Damodar-Ajay tract passed from post-Sena local rulers into the western provinces of the Bengal Sultanate." },
+      { "period": "1576 – 1657", "ruler": "Mughal Empire (Bengal Subah)", "periodDetails": "Mughal authority was exercised through revenue officers and local zamindars after the conquest of Bengal." },
+      { "period": "1657 – 1757", "ruler": "Burdwan Raj under Mughal suzerainty", "periodDetails": "The Kapoor family established the Burdwan Raj estate, a powerful zamindari owing revenue to the Mughal state." },
+      { "period": "1757 – 1858", "ruler": "East India Company and Burdwan Raj", "periodDetails": "The Company displaced the Nawab's political authority after Plassey; the Raj remained a major revenue estate under Company rule and the Permanent Settlement." },
+      { "period": "1858 – 1905", "ruler": "British Crown and Burdwan Raj", "periodDetails": "Burdwan was the headquarters of its Bengal division, while the Maharaja retained landed proprietary status under Crown paramountcy." },
+      { "period": "1905 – 1912", "ruler": "British Crown: Bengal Presidency", "periodDetails": "Burdwan Division remained in the reduced western province during the first partition." },
+      { "period": "1912 – 1947", "ruler": "British Crown: Bengal Province", "periodDetails": "The division continued under the reunited Bengal Province until independence." },
+      { "period": "1947 – present", "ruler": "Republic of India: West Bengal", "periodDetails": "Burdwan became part of India; the zamindari system was later abolished and the town remains a district centre in West Bengal." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. IX, pp. 90-102" }
@@ -278,7 +338,14 @@
     "famousSpecialties": "Medieval brick Sultanate architecture (Boro Sona Masjid, Dakhil Darwaza, Firoz Minar), ancient Buddhist-Hindu capital ruins, and Malda Fazli mangoes.",
     "revolutionarySignificance": "Historical symbol of sovereign medieval Bengali imperial pride invoked heavily by Swadeshi poets and nationalists during anti-partition rallies.",
     "politicalHistory": [
-      { "period": "7th – 16th Century", "ruler": "Shashanka, Palas, Senas & Bengal Sultanate", "periodDetails": "Imperial capital city of united Bengal for nearly a millennium." }
+      { "period": "1200 – 1204", "ruler": "Sena dynasty", "periodDetails": "Gour was the traditional capital of the Sena kingdom immediately before Bakhtiyar Khalji's conquest." },
+      { "period": "1204 – 1352", "ruler": "Ghurid successor rulers and Delhi Sultanate", "periodDetails": "Bakhtiyar Khalji made Gour/Lakhnauti his base; Delhi-appointed governors and competing chiefs ruled the city thereafter." },
+      { "period": "1352 – 1538", "ruler": "Independent Bengal Sultanate", "periodDetails": "Gour was a principal capital under the Ilyas Shahi and Husain Shahi dynasties and a centre of sultanate administration." },
+      { "period": "1538 – 1576", "ruler": "Sur and Karrani Afghan rulers", "periodDetails": "Sher Shah's successors and the Karrani dynasty controlled Gour until the Afghan defeat at Rajmahal; the capital shifted toward Tanda as Gour declined." },
+      { "period": "1576 – 1757", "ruler": "Mughal Empire (Bengal Subah)", "periodDetails": "The Mughals incorporated the ruins and surrounding Malda tract into Bengal Subah; river change and epidemics prevented Gour's recovery." },
+      { "period": "1757 – 1858", "ruler": "East India Company", "periodDetails": "The Malda region entered Company revenue administration after the battles of Plassey and Buxar." },
+      { "period": "1858 – 1947", "ruler": "British Crown (Malda district)", "periodDetails": "The archaeological site remained under British district administration and was recorded in gazetteers." },
+      { "period": "1947 – present", "ruler": "Republic of India: West Bengal", "periodDetails": "Gour's ruins fell on the Indian side of the 1947 boundary and are now protected heritage remains in Malda district." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XII, pp. 382-395" }
@@ -305,7 +372,12 @@
     "famousSpecialties": "Battlefield memorial obelisk, mango groves of Palashi along the Bhagirathi river, and historic EIC encampment grounds.",
     "revolutionarySignificance": "Watershed site marking the loss of Indian independence in 1757; invoked by Swadeshi revolutionaries as the symbol of colonial subjugation to be avenged.",
     "politicalHistory": [
-      { "period": "23 June 1757", "ruler": "East India Company Victory", "periodDetails": "Battle of Plassey obelisk erected by Lord Curzon." }
+      { "period": "1200 – 1576", "ruler": "Bengal Sultanate", "periodDetails": "Palashi lay in the Nadia-Murshidabad corridor, successively governed by Bengal's sultans and their local officers." },
+      { "period": "1576 – 1757", "ruler": "Mughal Empire and Nawabs of Bengal", "periodDetails": "The battlefield was within Mughal Bengal and later the Nawab's effective domain, administered through zamindars and military officers." },
+      { "period": "1757 – 1765", "ruler": "East India Company and Mir Jafar's Nawabate", "periodDetails": "The Company's victory at Plassey made it the power behind the Nawab's court and redirected Bengal's political order." },
+      { "period": "1765 – 1858", "ruler": "East India Company", "periodDetails": "After the Diwani of 1765, the Company administered the Nadia-Murshidabad countryside as part of the Bengal Presidency." },
+      { "period": "1858 – 1947", "ruler": "British Crown (Bengal Province)", "periodDetails": "Palashi remained a settlement in British district administration; the battlefield became a colonial monument site." },
+      { "period": "1947 – present", "ruler": "Republic of India: West Bengal", "periodDetails": "Palashi remained in India after Partition and is now a heritage site in Nadia district." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XX, pp. 148-152" }
@@ -332,7 +404,12 @@
     "famousSpecialties": "Historic Buxar Fort, Ramayana heritage sites (Rameshwar Nath Temple), and strategic Ganges river passage.",
     "revolutionarySignificance": "Site of the decisive 1764 battle that granted the British legal revenue rights (Diwani) over Bengal, Bihar, and Orissa.",
     "politicalHistory": [
-      { "period": "22 Oct 1764", "ruler": "East India Company Victory", "periodDetails": "Secured the imperial Diwani revenue grant from Shah Alam II in 1765." }
+      { "period": "1200 – 1576", "ruler": "Delhi Sultanate, Bengal Sultanate and local chiefs", "periodDetails": "Buxar lay on the frontier between Bihar and eastern India, under shifting Sultanate and regional authority." },
+      { "period": "1576 – 1764", "ruler": "Mughal Empire and Nawabs of Bengal", "periodDetails": "The Ganges town formed part of Mughal Bihar and later the Nawab's wider Bengal-Bihar sphere." },
+      { "period": "1764 – 1765", "ruler": "East India Company military government", "periodDetails": "The Company defeated the combined forces of Mir Qasim, Shuja-ud-Daula and Shah Alam II at Buxar on 22 October 1764." },
+      { "period": "1765 – 1858", "ruler": "East India Company (Diwani administration)", "periodDetails": "The victory secured the 1765 Diwani of Bengal, Bihar and Orissa and brought Buxar into Company revenue administration." },
+      { "period": "1858 – 1947", "ruler": "British Crown (Bihar district administration)", "periodDetails": "Buxar remained under Crown rule as a river town in the Bihar administrative system." },
+      { "period": "1947 – present", "ruler": "Republic of India: Bihar", "periodDetails": "Buxar became part of India and is now administered as a district of Bihar." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. IX, pp. 52-56" }
@@ -359,7 +436,12 @@
     "famousSpecialties": "12th-century Jagannath Temple, annual Ratha Yatra (Chariot Festival), Mahaprasad culinary heritage, Khaja sweet, and Golden Beach.",
     "revolutionarySignificance": "Center of Oriya spiritual identity; site of Khurda Paika Rebellion (1817) led by Bakshi Jagabandhu against British revenue oppression.",
     "politicalHistory": [
-      { "period": "12th – 19th Century", "ruler": "Gajapati Kings of Khurda & British Raj", "periodDetails": "Pilgrimage city under spiritual guardianship of the Gajapati Maharaja of Puri." }
+      { "period": "1200 – 1568", "ruler": "Eastern Ganga and Gajapati kings of Odisha", "periodDetails": "Puri and the Jagannath temple were governed within the Ganga and Gajapati kingdom, with the temple under royal patronage." },
+      { "period": "1568 – 1751", "ruler": "Bengal Sultanate and Mughal Empire", "periodDetails": "Afghan and Mughal conquest placed coastal Odisha under northern imperial administrations while the Gajapati religious office continued." },
+      { "period": "1751 – 1803", "ruler": "Maratha Confederacy (Nagpur Bhonsle)", "periodDetails": "Maratha rulers controlled Odisha and maintained the political-religious relationship with the Gajapati of Puri." },
+      { "period": "1803 – 1858", "ruler": "East India Company", "periodDetails": "The Company occupied Odisha in 1803; Puri became a district headquarters while temple management remained a central local question." },
+      { "period": "1858 – 1947", "ruler": "British Crown (Orissa Division)", "periodDetails": "Puri was administered in the Bengal Presidency through the Orissa Division under Crown rule." },
+      { "period": "1947 – present", "ruler": "Republic of India: Odisha", "periodDetails": "Puri joined India in 1947 and remains the sacred pilgrimage capital of Odisha, with the temple's hereditary and state institutions continuing in modern form." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XX, pp. 398-412" },
@@ -387,7 +469,13 @@
     "famousSpecialties": "Italian Renaissance style Victor Jubilee Palace (Cooch Behar Palace), Madan Mohan Temple, and Rajbari parklands.",
     "revolutionarySignificance": "Autonomous Koch dynastic capital under British supervisory treaty; key strategic gateway between North Bengal, Assam, and Bhutan.",
     "politicalHistory": [
-      { "period": "1515 – 1905", "ruler": "Koch Dynastic Maharajas", "periodDetails": "Autonomous Native State supervised by the Bengal Lieutenant-Governorship." }
+      { "period": "1200 – 1515", "ruler": "Kamarupa and regional chiefs", "periodDetails": "The northern frontier was governed by changing Kamarupa, Kamata and local polities before the rise of the Koch dynasty." },
+      { "period": "1515 – 1568", "ruler": "Koch dynasty", "periodDetails": "Biswa Singha consolidated the Koch kingdom and established Cooch Behar as its capital." },
+      { "period": "1568 – 1661", "ruler": "Koch kingdom under Mughal pressure", "periodDetails": "The Koch state retained internal rule while navigating Afghan and Mughal expansion in North Bengal and Assam." },
+      { "period": "1661 – 1772", "ruler": "Koch Behar rulers under Mughal suzerainty", "periodDetails": "Cooch Behar remained a distinct kingdom, acknowledging Mughal influence in the surrounding plains." },
+      { "period": "1772 – 1947", "ruler": "Cooch Behar princely state under British paramountcy", "periodDetails": "After conflict with Bhutan and British intervention, Cooch Behar became a protected princely state; the Maharaja retained internal authority." },
+      { "period": "1947 – 1949", "ruler": "Cooch Behar princely state", "periodDetails": "The state continued briefly after Indian independence before the ruler signed the instrument of accession." },
+      { "period": "1950 – present", "ruler": "Republic of India: West Bengal", "periodDetails": "Cooch Behar was merged into India in 1950 and is now a district and historic city of West Bengal." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. X, pp. 379-390" }
@@ -414,7 +502,14 @@
     "famousSpecialties": "Ujjayanta Palace architecture, Tripura Manikya royal heritage, bamboo and cane craft, and patronage of Bengali literature.",
     "revolutionarySignificance": "Independent Manikya kingdom sanctuary; royal patron Maharaja Radha Kishore Manikya funded Rabindranath Tagore's educational and Swadeshi efforts.",
     "politicalHistory": [
-      { "period": "Manikya Dynasty", "ruler": "Maharajas of Tripura", "periodDetails": "Independent native kingdom in treaty alliance with British India." }
+      { "period": "1200 – 1568", "ruler": "Twipra (Tripura) kings", "periodDetails": "The Manikya kingdom controlled the hill country and extended influence into the Tippera plains, balancing Bengal Sultanate pressure." },
+      { "period": "1568 – 1760", "ruler": "Manikya dynasty and Bengal Sultanate/Mughal suzerainty", "periodDetails": "Tripura remained a distinct kingdom while the plains were contested by Bengal's Afghan and Mughal authorities." },
+      { "period": "1760 – 1808", "ruler": "Manikya dynasty (Old Agartala)", "periodDetails": "Krishna Manikya moved the royal seat to Agartala in 1760; the kingdom maintained internal sovereignty under growing British influence." },
+      { "period": "1808 – 1905", "ruler": "Hill Tippera princely state under British paramountcy", "periodDetails": "The Manikya Maharaja governed the protected state while British political officers supervised external affairs." },
+      { "period": "1905 – 1947", "ruler": "Hill Tippera princely state", "periodDetails": "Agartala remained the capital of the autonomous princely state, adjacent to the new Eastern Bengal and Assam province." },
+      { "period": "1947 – 1949", "ruler": "Tripura princely state", "periodDetails": "The state acceded to India after independence and was administered under a Chief Commissioner." },
+      { "period": "1950 – 1972", "ruler": "Republic of India: Union Territory of Tripura", "periodDetails": "Tripura became a centrally administered territory after merger with India." },
+      { "period": "1972 – present", "ruler": "Republic of India: State of Tripura", "periodDetails": "Tripura attained full statehood in 1972; Agartala remains its capital." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XIII, pp. 115-122" }
@@ -441,8 +536,12 @@
     "famousSpecialties": "First Indian language metal type printing press (Serampore Trio), Serampore College (1818), Danish colonial architecture, and textile weaving.",
     "revolutionarySignificance": "Cradle of Bengal's vernacular printing revolution (Samachar Darpan - 1818); active in 1905 Swadeshi boycott meetings.",
     "politicalHistory": [
-      { "period": "1755 – 1845", "ruler": "Danish East India Company", "periodDetails": "Known as Frederiksnagore under Danish Crown." },
-      { "period": "1845 – 1905", "ruler": "British Raj (Hooghly District)", "periodDetails": "Sold to British EIC in 1845." }
+      { "period": "1200 – 1576", "ruler": "Bengal Sultanate", "periodDetails": "The Hooghly river settlement lay within the western provinces of the Bengal Sultanate." },
+      { "period": "1576 – 1755", "ruler": "Mughal Empire (Bengal Subah)", "periodDetails": "Mughal revenue and port authorities governed the area while European companies established river factories." },
+      { "period": "1755 – 1845", "ruler": "Danish Crown (Frederiksnagore)", "periodDetails": "Denmark leased Serampore from the Nawab's government and maintained a sovereign trading settlement and mission centre." },
+      { "period": "1845 – 1858", "ruler": "East India Company", "periodDetails": "Denmark ceded the settlement to Britain in 1845; it was incorporated into Hooghly district." },
+      { "period": "1858 – 1947", "ruler": "British Crown (Bengal Province)", "periodDetails": "Serampore remained a municipality and river town under Crown district administration." },
+      { "period": "1947 – present", "ruler": "Republic of India: West Bengal", "periodDetails": "Serampore became part of India and remains a municipality in Hooghly district." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XXII, pp. 178-182" }
@@ -469,7 +568,12 @@
     "famousSpecialties": "French colonial architecture, Hugli riverfront Strand, Farashdanga fine muslin sarees, and Jagaddhatri Puja celebrations.",
     "revolutionarySignificance": "Sovereign French territory serving as a safe sanctuary for revolutionary leaders (Sri Aurobindo, Rash Behari Bose, Kanailal Dutta) to evade British police arrests.",
     "politicalHistory": [
-      { "period": "1673 – 1950", "ruler": "French Republic (French India)", "periodDetails": "French sovereign colonial territory administered by Governor at Pondicherry." }
+      { "period": "1200 – 1692", "ruler": "Bengal Sultanate and Mughal Empire", "periodDetails": "The riverbank settlement was successively within Bengal's Sultanate and Mughal administrative sphere." },
+      { "period": "1692 – 1757", "ruler": "French East India Company under Mughal suzerainty", "periodDetails": "The French established a trading settlement at Chandernagore while the Mughal authorities retained formal sovereignty." },
+      { "period": "1757 – 1763", "ruler": "British East India Company", "periodDetails": "British forces captured the French settlement during the Seven Years' War and held it during the struggle for Bengal." },
+      { "period": "1763 – 1947", "ruler": "French Republic (French India)", "periodDetails": "Chandernagore was restored to France in 1763 and remained a sovereign enclave administered from Pondicherry, despite British dominance around it." },
+      { "period": "1947 – 1952", "ruler": "French Republic, post-colonial enclave", "periodDetails": "After Indian independence, a local referendum supported union with India; France transferred de facto control in 1950 and sovereignty in 1952." },
+      { "period": "1952 – present", "ruler": "Republic of India: West Bengal", "periodDetails": "Chandernagore became part of India and was incorporated into West Bengal in 1955." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. X, pp. 162-168" }
@@ -496,7 +600,13 @@
     "famousSpecialties": "17th-century carved terracotta temples, Bishnupuri Swarnachari & Baluchari silk sarees, Bishnupur Classical Music Gharana, and Dalmadal cannon.",
     "revolutionarySignificance": "Historical capital of sovereign Mallabhum Hindu kingdom, celebrated by Swadeshi historians for resisting Mughal hegemony.",
     "politicalHistory": [
-      { "period": "7th – 18th Century", "ruler": "Malla Dynasty of Mallabhum", "periodDetails": "Independent Hindu kingdom patronizing Vaishnavism and classical arts." }
+      { "period": "1200 – 1565", "ruler": "Malla kings of Mallabhum", "periodDetails": "Bishnupur was the fortified capital of the Malla kingdom, which maintained autonomy between Bengal powers and Odisha." },
+      { "period": "1565 – 1765", "ruler": "Malla kings under Mughal suzerainty", "periodDetails": "The Mallas retained internal rule while paying tribute and recognizing the authority of the Mughal Bengal Subah." },
+      { "period": "1765 – 1858", "ruler": "East India Company and Bishnupur Raj", "periodDetails": "Company revenue authority followed the Diwani; the Malla estate survived as a zamindari under the Permanent Settlement." },
+      { "period": "1858 – 1905", "ruler": "British Crown and Bishnupur estate", "periodDetails": "Bishnupur was administered within Bankura district while its former royal family retained landed privileges." },
+      { "period": "1905 – 1912", "ruler": "British Crown: Bengal Presidency", "periodDetails": "Bankura and Bishnupur remained in western Bengal during the partition of the province." },
+      { "period": "1912 – 1947", "ruler": "British Crown: Bengal Province", "periodDetails": "The town continued within Bengal's Bankura district until independence." },
+      { "period": "1947 – present", "ruler": "Republic of India: West Bengal", "periodDetails": "Bishnupur became part of India; the zamindari order was abolished and the former capital is now a protected heritage town." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. VIII, pp. 245-250" }
@@ -523,7 +633,12 @@
     "famousSpecialties": "Ancient Tamralipta archaeological artifacts, Bargabhima Temple (Shakti Peetha), and Rupnarayan river estuary commerce.",
     "revolutionarySignificance": "Historic center of Midnapore anti-colonial resistance; later site of the famous Tamralipta Jatiya Sarkar parallel government in 1942.",
     "politicalHistory": [
-      { "period": "Ancient", "ruler": "Tamralipta Kingdom & Guptas", "periodDetails": "Maritime Buddhist port city on the Rupnarayan river." }
+      { "period": "1200 – 1568", "ruler": "Local chiefs, Bengal Sultanate and Gajapati Odisha", "periodDetails": "The former Tamralipta zone lay at the meeting point of Bengal's southwestern frontier and Odisha's northern coastal sphere." },
+      { "period": "1568 – 1751", "ruler": "Mughal Empire (Orissa administration)", "periodDetails": "Mughal conquest of Odisha brought the Tamluk area into the imperial Orissa administration, mediated by local zamindars." },
+      { "period": "1751 – 1803", "ruler": "Maratha Confederacy (Nagpur Bhonsle)", "periodDetails": "Maratha control of Odisha and its northern approaches shaped the political setting of Tamluk." },
+      { "period": "1803 – 1858", "ruler": "East India Company", "periodDetails": "The Company occupied Odisha in 1803; Tamluk remained a sub-divisional centre in Midnapore district." },
+      { "period": "1858 – 1947", "ruler": "British Crown (Bengal Province)", "periodDetails": "Tamluk was administered through Midnapore district; its older port had become a riverine and agrarian centre." },
+      { "period": "1947 – present", "ruler": "Republic of India: West Bengal", "periodDetails": "Tamluk joined India and remains the headquarters of Purba Medinipur district in West Bengal." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XXIII, pp. 112-116" },
@@ -551,11 +666,26 @@
     "famousSpecialties": "Panam City (Painam Nagar) architectural merchant mansions, Folk Art & Crafts Museum, and Bengal Sultanate royal tombs.",
     "revolutionarySignificance": "Capital of Isa Khan and the Baro-Bhuyans (Twelve Chieftains) who fiercely resisted Akbar's Mughal expansion into East Bengal.",
     "politicalHistory": [
-      { "period": "1340 – 1608", "ruler": "Bengal Sultanate & Baro-Bhuyans (Isa Khan)", "periodDetails": "Independent capital until Subahdar Islam Khan captured it in 1608." }
+      { "period": "1200 – 1302", "ruler": "Sena successor rulers and Deva dynasty", "periodDetails": "After the fall of Sena power in western Bengal, the Deva rulers retained authority in eastern Bengal; Sonargaon emerged as a capital in the Vanga region under Danuja Rai." },
+      { "period": "1302 – 1324", "ruler": "Delhi Sultanate: eastern Bengal governors", "periodDetails": "The independent Hindu polity in eastern Bengal was absorbed into the expanding Muslim provincial system, with Sonargaon retaining regional importance." },
+      { "period": "1324 – 1338", "ruler": "Tughluq Empire", "periodDetails": "Muhammad bin Tughluq reorganized Bengal into Lakhnauti, Satgaon and Sonargaon; Sonargaon became the headquarters of the eastern province." },
+      { "period": "1338 – 1352", "ruler": "Independent Sultanate of Sonargaon", "periodDetails": "Fakhruddin Mubarak Shah established an independent sultanate at Sonargaon, followed by his son Ikhtiyaruddin Ghazi Shah, before Ilyas Shah unified Bengal." },
+      { "period": "1352 – 1412", "ruler": "Ilyas Shahi Bengal Sultanate", "periodDetails": "After Ilyas Shah's conquest, Sonargaon became a provincial metropolis within the unified Bengal Sultanate while remaining a major port and commercial centre." },
+      { "period": "1412 – 1435", "ruler": "Independent and contested Bengal Sultanate", "periodDetails": "The authority of the Ilyas Shahi line was interrupted by Raja Ganesha and his successors; Sonargaon remained one of eastern Bengal's principal political centres." },
+      { "period": "1435 – 1538", "ruler": "Restored Ilyas Shahi and Husain Shahi sultans", "periodDetails": "Restored Ilyas Shahi rulers and then the Husain Shahi dynasty governed Sonargaon through provincial officials; its muslin and overseas trade remained prominent." },
+      { "period": "1538 – 1576", "ruler": "Sur and Karrani Afghan rulers", "periodDetails": "The independent sultanate fell to Afghan power after 1538; Sonargaon remained an important eastern centre during the Sur and Karrani periods." },
+      { "period": "1576 – 1611", "ruler": "Mughal Empire contested by the Baro-Bhuyans", "periodDetails": "Mughal claims followed the conquest of Bengal, but Isa Khan and Musa Khan made Sonargaon the centre of resistance in the Bhati riverlands until Islam Khan's campaigns." },
+      { "period": "1611 – 1757", "ruler": "Mughal Empire (Bengal Subah)", "periodDetails": "After Musa Khan's submission, Sonargaon became a Mughal sarkar headquarters; the transfer of the provincial capital to Dhaka accelerated its political decline." },
+      { "period": "1757 – 1858", "ruler": "East India Company (Bengal Presidency)", "periodDetails": "The surrounding Dacca district passed into Company influence after Plassey and the Diwani; Sonargaon declined while Panam became a nineteenth-century merchant settlement." },
+      { "period": "1858 – 1947", "ruler": "British Crown (Bengal Province)", "periodDetails": "Sonargaon was administered within Dacca district under Crown rule and survived chiefly as a rural and commercial locality with important historic remains." },
+      { "period": "1947 – 1955", "ruler": "Pakistan: East Bengal", "periodDetails": "Partition placed Sonargaon in the eastern province of Pakistan, initially named East Bengal." },
+      { "period": "1955 – 1971", "ruler": "Pakistan: East Pakistan", "periodDetails": "The province was renamed East Pakistan in 1955; Sonargaon remained within Dacca district until the Liberation War." },
+      { "period": "1971 – present", "ruler": "People's Republic of Bangladesh", "periodDetails": "Following Bangladesh's independence, Sonargaon became part of Narayanganj District and is now protected and interpreted as a major archaeological and cultural heritage area." }
     ],
     "sources": [
       { "sourceId": "imp-gazetteer-1907", "pages": "Vol. XXIII, pp. 81-85" },
-      { "sourceId": "bengal-gazetteer-dacca", "pages": "pp. 110-125" }
+      { "sourceId": "bengal-gazetteer-dacca", "pages": "pp. 110-125" },
+      { "sourceId": "banglapedia-sonargaon" }
     ],
     "confidence": "HIGH",
     "wikidataId": "Q3348123",
